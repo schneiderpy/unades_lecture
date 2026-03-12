@@ -3,7 +3,7 @@ title: "Clase 2 – Unidad 1: Introduccion"
 #subtitle: "Clase 1 – Introducción y preparación del entorno"
 description: "Conceptos: planificacion, planes, programas, proyectos"
 draft: true
-author: "Prof. Andreas Schneider"
+author: "Mgtr. Andreas Schneider"
 date: "20 Marzo 2026"
 date-format: "DD MMMM YYYY"
 pdf: "[📥 Download](lesson-01/lesson-01.pdf)"
