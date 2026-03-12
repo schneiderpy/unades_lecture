@@ -1,0 +1,11 @@
+---
+title: "Presentaciones"
+listing:
+  contents: "*/index.qmd"     # Points to the folder containing your decks
+  type: table      # Options: 'default', 'grid', or 'table'
+  sort: "date desc"
+  fields: [title, subtitle, date, author, description, pdf] # Metadata to show in the list
+---
+
+Welcome to the lesson repository. Click any title below to view the slides.
+

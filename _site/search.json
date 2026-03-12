@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "lessons/lesson-01/index.html#bienvenidos",
+    "href": "lessons/lesson-01/index.html#bienvenidos",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Bienvenidos",
+    "text": "Bienvenidos\nFormulación y Evaluación de Proyectos de Inversión\nCuarto año – Administración de Empresas\nProfesor: Mg. Andreas Schneider, CERM"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#sobre-el-profesor",
+    "href": "lessons/lesson-01/index.html#sobre-el-profesor",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Sobre el profesor",
+    "text": "Sobre el profesor\n\nFormación académica\nExperiencia profesional\nÁreas de investigación\nInterés en análisis de datos y proyectos\nMas informacion"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#pregunta-inicial",
+    "href": "lessons/lesson-01/index.html#pregunta-inicial",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Pregunta inicial",
+    "text": "Pregunta inicial\nAntes de empezar:\n¿Qué entienden por “proyecto de inversión”?"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#objetivo-del-curso",
+    "href": "lessons/lesson-01/index.html#objetivo-del-curso",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Objetivo del curso",
+    "text": "Objetivo del curso\nAl finalizar el curso los estudiantes podrán:\n\nConfigurar y utilizar un entorno de proyecto reproducible (R, RStudio, Git, GitHub, Quarto).\nAplicar la plantilla SCReport para elaborar un estudio de viabilidad con formato profesional.\nRealizar análisis de mercado, técnicos, financieros y de riesgos para un proyecto de inversión real.\nCalcular e interpretar indicadores financieros clave: VPN, TIR y periodo de recuperación.\nColaborar de forma asíncrona mediante ramas de Git, commits y pull requests.\nPresentar y defender sus hallazgos en equipo.\nCrear su propio portafolio de proyectos como evidencia."
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#estructura-general-del-curso",
+    "href": "lessons/lesson-01/index.html#estructura-general-del-curso",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Estructura general del curso",
+    "text": "Estructura general del curso\nCapítulos principales:\n\nIntroducción a los proyectos\nEstudio de mercado\nIngeniería del proyecto\nRelaciones de mercado\nAspectos financieros\nEvaluación del proyecto\nAspectos organizacionales\nEstudio de caso"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#cómo-trabajaremos-durante-el-semestre",
+    "href": "lessons/lesson-01/index.html#cómo-trabajaremos-durante-el-semestre",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Cómo trabajaremos durante el semestre",
+    "text": "Cómo trabajaremos durante el semestre\nEl curso está basado en un proyecto práctico.\nCada grupo desarrollará durante el semestre:\nUn proyecto de inversión completo"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#metodología-del-curso",
+    "href": "lessons/lesson-01/index.html#metodología-del-curso",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Metodología del curso",
+    "text": "Metodología del curso\nCada semana:\n\nParte conceptual (teoría)\nAplicación al proyecto (con un ejemplo?)\nAvance del estudio de caso (Laboratorio)"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#resultado-final-del-curso",
+    "href": "lessons/lesson-01/index.html#resultado-final-del-curso",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Resultado final del curso",
+    "text": "Resultado final del curso\nCada grupo entregará:\n\nDocumento del proyecto\nAnálisis financiero\nEvaluación del proyecto\nPresentación final (verbal)"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#herramientas-que-utilizaremos",
+    "href": "lessons/lesson-01/index.html#herramientas-que-utilizaremos",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Herramientas que utilizaremos",
+    "text": "Herramientas que utilizaremos\nDurante el curso usaremos:\n\nQuarto\nGitHub\nRStudio\nR (eventualmente)"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#por-qué-estas-herramientas",
+    "href": "lessons/lesson-01/index.html#por-qué-estas-herramientas",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "¿Por qué estas herramientas?",
+    "text": "¿Por qué estas herramientas?\nPermiten:\n\norganizar el trabajo\ndocumentar proyectos\nmantener control de versiones\ngenerar informes profesionales"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#flujo-de-trabajo",
+    "href": "lessons/lesson-01/index.html#flujo-de-trabajo",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Flujo de trabajo",
+    "text": "Flujo de trabajo\nProyecto → Documento → Repositorio\nQuarto → documento\nR → análisis\nGitHub → control de versiones"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#herramientas-y-instalacion",
+    "href": "lessons/lesson-01/index.html#herramientas-y-instalacion",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Herramientas y instalacion",
+    "text": "Herramientas y instalacion\n\n\n\n\n\n\nPrecaución\n\n\nComputadoras antiguas y Windows 32-bit tienen un tratamiento distinto. El siguiente procedimiento aplica para sistemas de Windows 64-bit!\n\n\n\n\nInstalar git\n\nDocumentacion - esp\n\n\n\nR y RStudio\n\nR y RStudio\n\n\n\nInstalación de tinytex\n\ninstall.package(tinytex)\nquarto install tinytex"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#continuacion",
+    "href": "lessons/lesson-01/index.html#continuacion",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Continuacion …",
+    "text": "Continuacion …\n\nCrea una cuenta de GitHub\nCrea repo para el proyecto, por ejemplo, github.com/tunombre/proyecto-inversión\n\nDocumentacion en espanhol\n\n\n\nInstalar template (plantilla)\n\nquarto::quarto_use_template(“schneiderpy/screport”)\nquarto use template schneiderpy/screport"
+  },
+  {
+    "objectID": "lessons/lesson-01/index.html#propuesta-inicial",
+    "href": "lessons/lesson-01/index.html#propuesta-inicial",
+    "title": "Clase 1 – Introducción y preparación del entorno",
+    "section": "Propuesta inicial",
+    "text": "Propuesta inicial"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Clases y Presentaciones",
+    "section": "",
+    "text": "En este sitio se encuentran las clases y sus respectivas presentaciones.\nEl proyecto es un proyecto “vivo” y se agregan nuevas presentaciones después de cada clase."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "lessons/index.html",
+    "href": "lessons/index.html",
+    "title": "Presentaciones",
+    "section": "",
+    "text": "Welcome to the lesson repository. Click any title below to view the slides.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Fecha - Más antiguo\n      \n      \n        Fecha - Más reciente\n      \n      \n        Título\n      \n      \n        Autor/a\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTítulo\n\n\n\nSubtítulo\n\n\n\nFecha\n\n\n\nAutor/a\n\n\n\nDescripción\n\n\n\npdf\n\n\n\n\n\n\n\n\nClase 1 – Introducción y preparación del entorno\n\n\n \n\n\n13 mar 2026\n\n\nProf. Andreas Schneider\n\n\nIntro al semestre, logistica, objetivos, instalación de software, GitHub, plantilla\n\n\n📥 Download\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#bienvenidos",
+    "href": "lessons/lesson-02/index.html#bienvenidos",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Bienvenidos",
+    "text": "Bienvenidos\nFormulación y Evaluación de Proyectos de Inversión\nCuarto año – Administración de Empresas\nProfesor: Mg. Andreas Schneider, CERM"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#sobre-el-profesor",
+    "href": "lessons/lesson-02/index.html#sobre-el-profesor",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Sobre el profesor",
+    "text": "Sobre el profesor\n\nFormación académica\nExperiencia profesional\nÁreas de investigación\nInterés en análisis de datos y proyectos\nMas informacion"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#pregunta-inicial",
+    "href": "lessons/lesson-02/index.html#pregunta-inicial",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Pregunta inicial",
+    "text": "Pregunta inicial\nAntes de empezar:\n¿Qué entienden por “proyecto de inversión”?"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#objetivo-del-curso",
+    "href": "lessons/lesson-02/index.html#objetivo-del-curso",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Objetivo del curso",
+    "text": "Objetivo del curso\nAl finalizar el curso los estudiantes podrán:\n\nConfigurar y utilizar un entorno de proyecto reproducible (R, RStudio, Git, GitHub, Quarto).\nAplicar la plantilla SCReport para elaborar un estudio de viabilidad con formato profesional.\nRealizar análisis de mercado, técnicos, financieros y de riesgos para un proyecto de inversión real.\nCalcular e interpretar indicadores financieros clave: VPN, TIR y periodo de recuperación.\nColaborar de forma asíncrona mediante ramas de Git, commits y pull requests.\nPresentar y defender sus hallazgos en equipo.\nCrear su propio portafolio de proyectos como evidencia."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#estructura-general-del-curso",
+    "href": "lessons/lesson-02/index.html#estructura-general-del-curso",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Estructura general del curso",
+    "text": "Estructura general del curso\nCapítulos principales:\n\nIntroducción a los proyectos\nEstudio de mercado\nIngeniería del proyecto\nRelaciones de mercado\nAspectos financieros\nEvaluación del proyecto\nAspectos organizacionales\nEstudio de caso"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#cómo-trabajaremos-durante-el-semestre",
+    "href": "lessons/lesson-02/index.html#cómo-trabajaremos-durante-el-semestre",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Cómo trabajaremos durante el semestre",
+    "text": "Cómo trabajaremos durante el semestre\nEl curso está basado en un proyecto práctico.\nCada grupo desarrollará durante el semestre:\nUn proyecto de inversión completo"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#metodología-del-curso",
+    "href": "lessons/lesson-02/index.html#metodología-del-curso",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Metodología del curso",
+    "text": "Metodología del curso\nCada semana:\n\nParte conceptual (teoría)\nAplicación al proyecto (con un ejemplo?)\nAvance del estudio de caso (Laboratorio)"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#resultado-final-del-curso",
+    "href": "lessons/lesson-02/index.html#resultado-final-del-curso",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Resultado final del curso",
+    "text": "Resultado final del curso\nCada grupo entregará:\n\nDocumento del proyecto\nAnálisis financiero\nEvaluación del proyecto\nPresentación final (verbal)"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#herramientas-que-utilizaremos",
+    "href": "lessons/lesson-02/index.html#herramientas-que-utilizaremos",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Herramientas que utilizaremos",
+    "text": "Herramientas que utilizaremos\nDurante el curso usaremos:\n\nQuarto\nGitHub\nRStudio\nR (eventualmente)"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#por-qué-estas-herramientas",
+    "href": "lessons/lesson-02/index.html#por-qué-estas-herramientas",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "¿Por qué estas herramientas?",
+    "text": "¿Por qué estas herramientas?\nPermiten:\n\norganizar el trabajo\ndocumentar proyectos\nmantener control de versiones\ngenerar informes profesionales"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#flujo-de-trabajo",
+    "href": "lessons/lesson-02/index.html#flujo-de-trabajo",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Flujo de trabajo",
+    "text": "Flujo de trabajo\nProyecto → Documento → Repositorio\nQuarto → documento\nR → análisis\nGitHub → control de versiones"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#herramientas-y-instalacion",
+    "href": "lessons/lesson-02/index.html#herramientas-y-instalacion",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Herramientas y instalacion",
+    "text": "Herramientas y instalacion\n\n\n\n\n\n\nPrecaución\n\n\nComputadoras antiguas y Windows 32-bit tienen un tratamiento distinto. El siguiente procedimiento aplica para sistemas de Windows 64-bit!\n\n\n\n\nR y RStudio\n\nR y RStudio\n\n\n\nInstalación de tinytex\n\ninstall.package(tinytex)\nquarto install tinytex"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#continuacion",
+    "href": "lessons/lesson-02/index.html#continuacion",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Continuacion …",
+    "text": "Continuacion …\n\nCrea una cuenta de GitHub\nCrea repo para el proyecto, por ejemplo, github.com/tunombre/proyecto-inversión\n\nDocumentacion en espanhol\n\n\n\nInstalar template (plantilla)\n\nquarto::quarto_use_template(“schneiderpy/screport”)\nquarto use template schneiderpy/screport"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#propuesta-inicial",
+    "href": "lessons/lesson-02/index.html#propuesta-inicial",
+    "title": "Clase 2 – Unidad 1: Introduccion",
+    "section": "Propuesta inicial",
+    "text": "Propuesta inicial"
+  }
+]

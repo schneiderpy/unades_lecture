@@ -1,0 +1,8 @@
+---
+title: "Clases y Presentaciones"
+---
+
+En este sitio se encuentran las clases y sus respectivas presentaciones.
+
+El proyecto es un proyecto _"vivo"_ y se agregan nuevas presentaciones después
+de cada clase.

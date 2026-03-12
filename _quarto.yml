@@ -1,0 +1,20 @@
+project:
+  type: website
+  title: "Formulacion y Evaluacion de Proyectos de Inversion"
+
+# _quarto.yml
+website:
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: lessons/index.qmd
+        text: "Lessons"
+
+
+format:
+  html:
+    theme: dark
+
+lang: es
+
