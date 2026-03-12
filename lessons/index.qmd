@@ -7,5 +7,6 @@ listing:
   fields: [title, subtitle, date, author, description, pdf] # Metadata to show in the list
 ---
 
-Welcome to the lesson repository. Click any title below to view the slides.
+Bienvenido al repositorio de las clases. Haga click en cualquier titulo
+para volver a ver la presentación o descargar el archivo PDF.
 
