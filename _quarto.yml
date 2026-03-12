@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   title: "Formulacion y Evaluacion de Proyectos de Inversion"
 
 # _quarto.yml

@@ -1,0 +1,12 @@
+## Quarto generated files
+/.quarto/
+_site/
+_freeze/
+
+## R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+**/*.quarto_ipynb
