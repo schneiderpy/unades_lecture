@@ -2,6 +2,7 @@
   {
     "listing": "/lessons/index.html",
     "items": [
+      "/lessons/lesson-02/index.html",
       "/lessons/lesson-01/index.html"
     ]
   }
