@@ -25,7 +25,7 @@
     "href": "lessons/lesson-01/index.html#bienvenidos",
     "title": "Clase 1 – Introducción y preparación del entorno",
     "section": "Bienvenidos",
-    "text": "Bienvenidos\nFormulación y Evaluación de Proyectos de Inversión\nCuarto año – Administración de Empresas\nProfesor: Mg. Andreas Schneider, CERM"
+    "text": "Bienvenidos\nFormulación y Evaluación de Proyectos de Inversión\nCuarto año – Administración de Empresas\nProfesor: Mgtr. Andreas Schneider, CERM"
   },
   {
     "objectID": "lessons/lesson-01/index.html#sobre-el-profesor",
@@ -129,8 +129,8 @@
     "objectID": "lessons/lesson-02/index.html#bienvenidos",
     "href": "lessons/lesson-02/index.html#bienvenidos",
     "title": "Clase 2 – Introducción",
-    "section": "",
-    "text": "Cuarto año – Administración de Empresas\nProfesor: Mg. Andreas Schneider, CERM"
+    "section": "Bienvenidos",
+    "text": "Bienvenidos\nFormulación y Evaluación de Proyectos de Inversión\nCuarto año – Administración de Empresas\nProfesor: Mgtr. Andreas Schneider, CERM"
   },
   {
     "objectID": "lessons/lesson-02/index.html#sobre-el-profesor",
@@ -207,7 +207,7 @@
     "href": "lessons/lesson-02/index.html#herramientas-y-instalacion",
     "title": "Clase 2 – Introducción",
     "section": "Herramientas y instalacion",
-    "text": "Herramientas y instalacion\n\n\n\n\n\n\nPrecaución\n\n\n\nComputadoras antiguas y Windows 32-bit tienen un tratamiento distinto. El siguiente procedimiento aplica para sistemas de Windows 64-bit!\n\n\n\nInstalar git\n\nDocumentacion - esp\n\n\n\nR y RStudio\n\nR y RStudio\n\n\n\nInstalación de tinytex\n\ninstall.package(tinytex)\nquarto install tinytex"
+    "text": "Herramientas y instalacion\n\n\n\n\n\n\nPrecaución\n\n\nComputadoras antiguas y Windows 32-bit tienen un tratamiento distinto. El siguiente procedimiento aplica para sistemas de Windows 64-bit!\n\n\n\n\nInstalar git\n\nDocumentacion - esp\n\n\n\nR y RStudio\n\nR y RStudio\n\n\n\nInstalación de tinytex\n\ninstall.package(tinytex)\nquarto install tinytex"
   },
   {
     "objectID": "lessons/lesson-02/index.html#continuacion",
