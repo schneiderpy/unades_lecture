@@ -4,7 +4,7 @@ listing:
   contents: "*/index.qmd"     # Points to the folder containing your decks
   type: table      # Options: 'default', 'grid', or 'table'
   sort: "date desc"
-  fields: [title, subtitle, date, author, description, pdf] # Metadata to show in the list
+  fields: [title, date, author, description, pdf] # Metadata to show in the list
 ---
 
 Bienvenido al repositorio de las clases. Haga click en cualquier titulo

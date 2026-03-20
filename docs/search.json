@@ -4,7 +4,7 @@
     "href": "lessons/index.html",
     "title": "Presentaciones",
     "section": "",
-    "text": "Bienvenido al repositorio de las clases. Haga click en cualquier titulo para volver a ver la presentación o descargar el archivo PDF.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Fecha - Más antiguo\n      \n      \n        Fecha - Más reciente\n      \n      \n        Título\n      \n      \n        Autor/a\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTítulo\n\n\n\nSubtítulo\n\n\n\nFecha\n\n\n\nAutor/a\n\n\n\nDescripción\n\n\n\npdf\n\n\n\n\n\n\n\n\nClase 2 – Introducción\n\n\n \n\n\n20 mar 2026\n\n\nMgtr. Andreas Schneider\n\n\nIntro al semestre, logistica, objetivos, instalación de software, GitHub, plantilla\n\n\n📥 Download\n\n\n\n\n\n\nClase 1 – Introducción y preparación del entorno\n\n\n \n\n\n13 mar 2026\n\n\nMgtr. Andreas Schneider\n\n\nIntro al semestre, logistica, objetivos, instalación de software, GitHub, plantilla\n\n\n📥 Download\n\n\n\n\n\n\nNo hay resultados"
+    "text": "Bienvenido al repositorio de las clases. Haga click en cualquier titulo para volver a ver la presentación o descargar el archivo PDF.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Fecha - Más antiguo\n      \n      \n        Fecha - Más reciente\n      \n      \n        Título\n      \n      \n        Autor/a\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTítulo\n\n\n\nFecha\n\n\n\nAutor/a\n\n\n\nDescripción\n\n\n\npdf\n\n\n\n\n\n\n\n\nClase 2 – Unidad 1: Introducción y conceptualizacion\n\n\n20 mar 2026\n\n\nMgtr. Andreas Schneider\n\n\nIntroduccion y conceptualizacion de sistema de planificacion, planes, programas y proyectos\n\n\n📥 Download\n\n\n\n\n\n\nClase 1 – Introducción y preparación del entorno\n\n\n13 mar 2026\n\n\nMgtr. Andreas Schneider\n\n\nIntro al semestre, logistica, objetivos, instalación de software, GitHub, plantilla\n\n\n📥 Download\n\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "about.html",
@@ -135,92 +135,218 @@
   {
     "objectID": "lessons/lesson-02/index.html#sobre-el-profesor",
     "href": "lessons/lesson-02/index.html#sobre-el-profesor",
-    "title": "Clase 2 – Introducción",
-    "section": "Sobre el profesor",
-    "text": "Sobre el profesor\n\nFormación académica\nExperiencia profesional\nÁreas de investigación\nInterés en análisis de datos y proyectos\nMas informacion"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "2 Sobre el profesor",
+    "text": "2 Sobre el profesor\n\nFormación académica\nExperiencia profesional\nÁreas de investigación\nInterés en análisis de datos y proyectos\nMas informacion"
   },
   {
     "objectID": "lessons/lesson-02/index.html#pregunta-inicial",
     "href": "lessons/lesson-02/index.html#pregunta-inicial",
-    "title": "Clase 2 – Introducción",
-    "section": "Pregunta inicial",
-    "text": "Pregunta inicial\nAntes de empezar:\n¿Qué entienden por “proyecto de inversión”?"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.1 Pregunta inicial",
+    "text": "1.1 Pregunta inicial\nAntes de empezar:\n¿Qué entienden por “proyecto de inversión”?"
   },
   {
     "objectID": "lessons/lesson-02/index.html#objetivo-del-curso",
     "href": "lessons/lesson-02/index.html#objetivo-del-curso",
-    "title": "Clase 2 – Introducción",
-    "section": "Objetivo del curso",
-    "text": "Objetivo del curso\nAl finalizar el curso los estudiantes podrán:\n\nConfigurar y utilizar un entorno de proyecto reproducible (R, RStudio, Git, GitHub, Quarto).\nAplicar la plantilla SCReport para elaborar un estudio de viabilidad con formato profesional.\nRealizar análisis de mercado, técnicos, financieros y de riesgos para un proyecto de inversión real.\nCalcular e interpretar indicadores financieros clave: VPN, TIR y periodo de recuperación.\nColaborar de forma asíncrona mediante ramas de Git, commits y pull requests.\nPresentar y defender sus hallazgos en equipo.\nCrear su propio portafolio de proyectos como evidencia."
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.2 Objetivo del curso",
+    "text": "1.2 Objetivo del curso\nAl finalizar el curso los estudiantes podrán:\n\nConfigurar y utilizar un entorno de proyecto reproducible (R, RStudio, Git, GitHub, Quarto).\nAplicar la plantilla SCReport para elaborar un estudio de viabilidad con formato profesional.\nRealizar análisis de mercado, técnicos, financieros y de riesgos para un proyecto de inversión real.\nCalcular e interpretar indicadores financieros clave: VPN, TIR y periodo de recuperación.\nColaborar de forma asíncrona mediante ramas de Git, commits y pull requests.\nPresentar y defender sus hallazgos en equipo.\nCrear su propio portafolio de proyectos como evidencia."
   },
   {
     "objectID": "lessons/lesson-02/index.html#estructura-general-del-curso",
     "href": "lessons/lesson-02/index.html#estructura-general-del-curso",
-    "title": "Clase 2 – Introducción",
-    "section": "Estructura general del curso",
-    "text": "Estructura general del curso\nCapítulos principales:\n\nIntroducción a los proyectos\nEstudio de mercado\nIngeniería del proyecto\nRelaciones de mercado\nAspectos financieros\nEvaluación del proyecto\nAspectos organizacionales\nEstudio de caso"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.3 Estructura general del curso",
+    "text": "1.3 Estructura general del curso\nCapítulos principales:\n\nIntroducción a los proyectos\nEstudio de mercado\nIngeniería del proyecto\nRelaciones de mercado\nAspectos financieros\nEvaluación del proyecto\nAspectos organizacionales\nEstudio de caso"
   },
   {
     "objectID": "lessons/lesson-02/index.html#cómo-trabajaremos-durante-el-semestre",
     "href": "lessons/lesson-02/index.html#cómo-trabajaremos-durante-el-semestre",
-    "title": "Clase 2 – Introducción",
-    "section": "Cómo trabajaremos durante el semestre",
-    "text": "Cómo trabajaremos durante el semestre\nEl curso está basado en un proyecto práctico.\nCada grupo desarrollará durante el semestre:\nUn proyecto de inversión completo"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.4 Cómo trabajaremos durante el semestre",
+    "text": "1.4 Cómo trabajaremos durante el semestre\nEl curso está basado en un proyecto práctico.\nCada grupo desarrollará durante el semestre:\nUn proyecto de inversión completo"
   },
   {
     "objectID": "lessons/lesson-02/index.html#metodología-del-curso",
     "href": "lessons/lesson-02/index.html#metodología-del-curso",
-    "title": "Clase 2 – Introducción",
-    "section": "Metodología del curso",
-    "text": "Metodología del curso\nCada semana:\n\nParte conceptual (teoría)\nAplicación al proyecto (con un ejemplo?)\nAvance del estudio de caso (Laboratorio)"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.5 Metodología del curso",
+    "text": "1.5 Metodología del curso\nCada semana:\n\nParte conceptual (teoría)\nAplicación al proyecto (con un ejemplo?)\nAvance del estudio de caso (Laboratorio)"
   },
   {
     "objectID": "lessons/lesson-02/index.html#resultado-final-del-curso",
     "href": "lessons/lesson-02/index.html#resultado-final-del-curso",
-    "title": "Clase 2 – Introducción",
-    "section": "Resultado final del curso",
-    "text": "Resultado final del curso\nCada grupo entregará:\n\nDocumento del proyecto\nAnálisis financiero\nEvaluación del proyecto\nPresentación final (verbal)"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.6 Resultado final del curso",
+    "text": "1.6 Resultado final del curso\nCada grupo entregará:\n\nDocumento del proyecto\nAnálisis financiero\nEvaluación del proyecto\nPresentación final (verbal)"
   },
   {
     "objectID": "lessons/lesson-02/index.html#herramientas-que-utilizaremos",
     "href": "lessons/lesson-02/index.html#herramientas-que-utilizaremos",
-    "title": "Clase 2 – Introducción",
-    "section": "Herramientas que utilizaremos",
-    "text": "Herramientas que utilizaremos\nDurante el curso usaremos:\n\nQuarto\nGitHub\nRStudio\nR (eventualmente)"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.7 Herramientas que utilizaremos",
+    "text": "1.7 Herramientas que utilizaremos\nDurante el curso usaremos:\n\nQuarto\nGitHub\nRStudio\nR (eventualmente)"
   },
   {
     "objectID": "lessons/lesson-02/index.html#por-qué-estas-herramientas",
     "href": "lessons/lesson-02/index.html#por-qué-estas-herramientas",
-    "title": "Clase 2 – Introducción",
-    "section": "¿Por qué estas herramientas?",
-    "text": "¿Por qué estas herramientas?\nPermiten:\n\norganizar el trabajo\ndocumentar proyectos\nmantener control de versiones\ngenerar informes profesionales"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.8 ¿Por qué estas herramientas?",
+    "text": "1.8 ¿Por qué estas herramientas?\nPermiten:\n\norganizar el trabajo\ndocumentar proyectos\nmantener control de versiones\ngenerar informes profesionales"
   },
   {
     "objectID": "lessons/lesson-02/index.html#flujo-de-trabajo",
     "href": "lessons/lesson-02/index.html#flujo-de-trabajo",
-    "title": "Clase 2 – Introducción",
-    "section": "Flujo de trabajo",
-    "text": "Flujo de trabajo\nProyecto → Documento → Repositorio\nQuarto → documento\nR → análisis\nGitHub → control de versiones"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.9 Flujo de trabajo",
+    "text": "1.9 Flujo de trabajo\nProyecto → Documento → Repositorio\nQuarto → documento\nR → análisis\nGitHub → control de versiones"
   },
   {
     "objectID": "lessons/lesson-02/index.html#herramientas-y-instalacion",
     "href": "lessons/lesson-02/index.html#herramientas-y-instalacion",
-    "title": "Clase 2 – Introducción",
-    "section": "Herramientas y instalacion",
-    "text": "Herramientas y instalacion\n\n\n\n\n\n\nPrecaución\n\n\nComputadoras antiguas y Windows 32-bit tienen un tratamiento distinto. El siguiente procedimiento aplica para sistemas de Windows 64-bit!\n\n\n\n\nInstalar git\n\nDocumentacion - esp\n\n\n\nR y RStudio\n\nR y RStudio\n\n\n\nInstalación de tinytex\n\ninstall.package(tinytex)\nquarto install tinytex"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.10 Herramientas y instalacion",
+    "text": "1.10 Herramientas y instalacion\n\n\n\n\n\n\nPrecaución\n\n\nComputadoras antiguas y Windows 32-bit tienen un tratamiento distinto. El siguiente procedimiento aplica para sistemas de Windows 64-bit!\n\n\n\n\nInstalar git\n\nDocumentacion - esp\n\n\n\nR y RStudio\n\nR y RStudio\n\n\n\nInstalación de tinytex\n\ninstall.package(tinytex)\nquarto install tinytex"
   },
   {
     "objectID": "lessons/lesson-02/index.html#continuacion",
     "href": "lessons/lesson-02/index.html#continuacion",
-    "title": "Clase 2 – Introducción",
-    "section": "Continuacion …",
-    "text": "Continuacion …\n\nCrea una cuenta de GitHub\nCrea repo para el proyecto, por ejemplo, github.com/tunombre/proyecto-inversión\n\nDocumentacion en espanhol\n\n\n\nInstalar template (plantilla)\n\nquarto::quarto_use_template(“schneiderpy/screport”)\nquarto use template schneiderpy/screport"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.11 Continuacion …",
+    "text": "1.11 Continuacion …\n\nCrea una cuenta de GitHub\nCrea repo para el proyecto, por ejemplo, github.com/tunombre/proyecto-inversión\n\nDocumentacion en espanhol\n\n\n\nInstalar template (plantilla)\n\nquarto::quarto_use_template(“schneiderpy/screport”)\nquarto use template schneiderpy/screport"
   },
   {
     "objectID": "lessons/lesson-02/index.html#propuesta-inicial",
     "href": "lessons/lesson-02/index.html#propuesta-inicial",
-    "title": "Clase 2 – Introducción",
-    "section": "Propuesta inicial",
-    "text": "Propuesta inicial"
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.4 Propuesta inicial",
+    "text": "1.4 Propuesta inicial"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#unidad-1",
+    "href": "lessons/lesson-02/index.html#unidad-1",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1 Unidad: 1",
+    "text": "1 Unidad: 1\n1.1 Introduccion - Formulacion y Evaluacion de Proyectos de Inversion\n7to. Semestre – Administración de Empresas / Ing. Comercial\nProfesor: Mgtr. Andreas Schneider, CERM"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#que-es-un-proyecto",
+    "href": "lessons/lesson-02/index.html#que-es-un-proyecto",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Que es un proyecto?",
+    "text": "Que es un proyecto?\n\nUn proyecto es la búsqueda de una solución inteligente al planteamiento de un problema, la cual tiende a resolver una necesidad humana, por ejemplo, de educación, alimentación, salud, ambiente, cultura, etc.\nUn proyecto de inversión es un plan que, si se le asigna determinado monto de capital y se le proporcionan insumos de varios tipos, producirá un bien o un servicio, útil a la sociedad.\nLa evaluación de un proyecto de inversión, cualquiera que este sea, tiene por objecto conocer su rentabilidad económica y social, de tal manera que asegure resolver una necesidad human en forma eficiente, segura y rentable."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#estructura-general-de-la-evaluaion-de-proyectos",
+    "href": "lessons/lesson-02/index.html#estructura-general-de-la-evaluaion-de-proyectos",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.2 Estructura general de la evaluaion de proyectos",
+    "text": "1.2 Estructura general de la evaluaion de proyectos"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#section",
+    "href": "lessons/lesson-02/index.html#section",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "",
+    "text": "Un proyecto es:\n\nla unidad nuclear de la planificación operativa\ndebe ser consistente con la planificación estratégica\norganiza recursos (concentrados) y actividades\ntiene un plazo acotado\ntiene un costo determinado (presupuesto)\nse realiza bajo una unidad de gerencia\ninvolucra a una población definida\nse desarrolla en un ámbito geográfico definido\n\n\nTambien:\n\nel proceso (participativo) es importante\ndeben dejar instaladas capacidades permanentes"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#niveles-de-planificacion",
+    "href": "lessons/lesson-02/index.html#niveles-de-planificacion",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Niveles de planificacion",
+    "text": "Niveles de planificacion"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#que-es-un-proyecto-continuacion",
+    "href": "lessons/lesson-02/index.html#que-es-un-proyecto-continuacion",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.2 Que es un proyecto (continuacion)",
+    "text": "1.2 Que es un proyecto (continuacion)\nUn proyecto es:\n\nla unidad nuclear de la planificación operativa\ndebe ser consistente con la planificación estratégica\norganiza recursos (concentrados) y actividades\ntiene un plazo acotado\ntiene un costo determinado (presupuesto)\nse realiza bajo una unidad de gerencia\ninvolucra a una población definida\nse desarrolla en un ámbito geográfico definido\n\nTambien:\n\nel proceso (participativo) es importante\ndeben dejar instaladas capacidades permanentes"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#que-es-un-proyecto-continuación",
+    "href": "lessons/lesson-02/index.html#que-es-un-proyecto-continuación",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Que es un proyecto (continuación)",
+    "text": "Que es un proyecto (continuación)\nUn proyecto es:\n\nla unidad nuclear de la planificación operativa\ndebe ser consistente con la planificación estratégica\norganiza recursos (concentrados) y actividades\ntiene un plazo acotado\ntiene un costo determinado (presupuesto)\nse realiza bajo una unidad de gerencia\ninvolucra a una población definida\nse desarrolla en un ámbito geográfico definido\n\n\nTambien:\n\nel proceso (participativo) es importante\ndeben dejar instaladas capacidades permanentes"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#estructura-general-de-la-evaluacion-de-proyectos",
+    "href": "lessons/lesson-02/index.html#estructura-general-de-la-evaluacion-de-proyectos",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Estructura general de la evaluacion de proyectos",
+    "text": "Estructura general de la evaluacion de proyectos"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#estructura-general-de-la-evaluacion-de-proyectos-1",
+    "href": "lessons/lesson-02/index.html#estructura-general-de-la-evaluacion-de-proyectos-1",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Estructura general de la evaluacion de proyectos",
+    "text": "Estructura general de la evaluacion de proyectos\nCada parte de esta metodología tiene sus técnicas de análisis y sirven para hacer una serie de determinaciones, por ejemplo, mercado insatisfecho, costos totales etc. Aunque la metodología tenga una aplicación generalizada, la decisión final la toma una persona."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#tipologia-de-proyectos",
+    "href": "lessons/lesson-02/index.html#tipologia-de-proyectos",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Tipologia de proyectos",
+    "text": "Tipologia de proyectos"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#distinción",
+    "href": "lessons/lesson-02/index.html#distinción",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Distinción",
+    "text": "Distinción\nLos proyectos se pueden distinguir entre proyectos que buscan crear nuevos negocios o empresas, y proyectos que buscan evaluar un cambio, mejora o modernización en una empresa existente.\nAlgunos casos típicos de proyectos en empresas en marcha,por ejemplo, para el sector salud son los siguientes.\n\nOutsourcing: externalización de los servicios de lavandería para destinar los espacios liberados a ampliar las instalaciones médicas o para reducir costos.\nAmpliación: construcción y habilitación de nuevos boxes para aumentar la capacidad de atención y reducir las listas de espera de pacientes.\nAbandono: cierre de una parte de la unidad de cirugía reconstructiva si tiene mucha capacidad ociosa, para transformarla en un centro de imageneología.\nInternalización: creación de un laboratorio de procesamiento de muestras en el interior del establecimiento, para evitarle al paciente recurrir a otros centros médicos.\nReemplazo: modernización de los equipos de escáner."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#conceptulizacion",
+    "href": "lessons/lesson-02/index.html#conceptulizacion",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1 Conceptulizacion",
+    "text": "1 Conceptulizacion\n1.1 Que es un proyecto?\n\nUn proyecto es la búsqueda de una solución inteligente al planteamiento de un problema, la cual tiende a resolver una necesidad humana, por ejemplo, de educación, alimentación, salud, ambiente, cultura, etc.\nUn proyecto de inversión es un plan que, si se le asigna determinado monto de capital y se le proporcionan insumos de varios tipos, producirá un bien o un servicio, útil a la sociedad.\nLa evaluación de un proyecto de inversión, cualquiera que este sea, tiene por objecto conocer su rentabilidad económica y social, de tal manera que asegure resolver una necesidad human en forma eficiente, segura y rentable."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#la-importancia-y-causantes-de-un-proyect",
+    "href": "lessons/lesson-02/index.html#la-importancia-y-causantes-de-un-proyect",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "1.2 La importancia y causantes de un proyect",
+    "text": "1.2 La importancia y causantes de un proyect\nSe calcula que solo una de cada cincuenta ideas de negocio es realmente viable desde el punto de vista comercial. Por lo tanto, un estudio de viabilidad empresarial es una forma eficaz de evitar el desperdicio de más inversiones o recursos.\nSi, a la vista de los resultados del estudio, se considera que un proyecto es viable, el siguiente paso lógico es elaborar el plan de negocio completo."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#etapas-de-un-proyecto-de-inversion",
+    "href": "lessons/lesson-02/index.html#etapas-de-un-proyecto-de-inversion",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Etapas de un proyecto de inversion",
+    "text": "Etapas de un proyecto de inversion"
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#la-importancia-y-causantes-de-un-proyecto",
+    "href": "lessons/lesson-02/index.html#la-importancia-y-causantes-de-un-proyecto",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "La importancia y causantes de un proyecto",
+    "text": "La importancia y causantes de un proyecto\nSe calcula que solo una de cada cincuenta ideas de negocio es realmente viable desde el punto de vista comercial. Por lo tanto, un estudio de viabilidad empresarial es una forma eficaz de evitar el desperdicio de más inversiones o recursos.\nSi, a la vista de los resultados del estudio, se considera que un proyecto es viable, el siguiente paso lógico es elaborar el plan de negocio completo."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#proceso-de-la-evaluacion",
+    "href": "lessons/lesson-02/index.html#proceso-de-la-evaluacion",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "Proceso de la evaluacion",
+    "text": "Proceso de la evaluacion\nEn un estudio de evaluación de proyectos se distinguen tres niveles de profundidad.\n\n\nPerfil\n\nEl perfil (o gran visión, identificación de la idea) es el primero y mas simple y se elabora a partir de la información existente de una idea basada en el juicio común y en términos monetarios, solo presenta cálculos globales. Su análisis es, con frecuencia, estático y se basa principalmente en información secundaria, generalmente de tipo cualitativo, en opiniones de expertos o en cifras estimativas."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#section-1",
+    "href": "lessons/lesson-02/index.html#section-1",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "",
+    "text": "Los proyectos se pueden distinguir entre proyectos que buscan crear nuevos negocios o empresas, y proyectos que buscan evaluar un cambio, mejora o modernización en una empresa existente.\nAlgunos casos típicos de proyectos en empresas en marcha,por ejemplo, para el sector salud son los siguientes.\n\nOutsourcing: externalización de los servicios de lavandería para destinar los espacios liberados a ampliar las instalaciones médicas o para reducir costos.\nAmpliación: construcción y habilitación de nuevos boxes para aumentar la capacidad de atención y reducir las listas de espera de pacientes.\nAbandono: cierre de una parte de la unidad de cirugía reconstructiva si tiene mucha capacidad ociosa, para transformarla en un centro de imageneología.\nInternalización: creación de un laboratorio de procesamiento de muestras en el interior del establecimiento, para evitarle al paciente recurrir a otros centros médicos.\nReemplazo: modernización de los equipos de escáner."
+  },
+  {
+    "objectID": "lessons/lesson-02/index.html#section-2",
+    "href": "lessons/lesson-02/index.html#section-2",
+    "title": "Clase 2 – Unidad 1: Introducción y conceptualizacion",
+    "section": "",
+    "text": "Sensibilización: En general, los modelos de sensibilización muestran el grado de variabilidad que puede exhibir o resistir, dependiendo del modelo utilizado, uno o más de los componentes del flujo de caja. La teoría ofrece, a este respecto, dos modelos distintos para efectuar el análisis de sensibilidad: uno que calcula qué pasa con la rentabilidad del proyecto si cambia el valor de una o más variables incluidas en la proyección (una variación de este modelo mide la rentabilidad en tres escenarios distintos: el normal, que corresponde al flujo original del proyecto, uno optimista y otro pesimista); y otro modelo que busca determinar hasta dónde resistiría un proyecto que modifique el valor de esa variable8, es decir, el punto límite para que se obtenga únicamente la rentabilidad deseada después de recuperar la inversión."
   }
 ]
