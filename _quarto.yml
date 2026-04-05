@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: lessons/index.qmd
-        text: "Lessons"
+        text: "Lecciones"
 
 
 format:
