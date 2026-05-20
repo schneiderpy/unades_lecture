@@ -10,3 +10,4 @@ _freeze/
 .Ruserdata
 
 **/*.quarto_ipynb
+.positai
