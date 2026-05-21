@@ -1,5 +1,5 @@
 ---
-title: "Unidad 2: Estudio de mercado"
+title: "Estudio de mercado"
 #subtitle: "Clase 1 – Introducción y preparación del entorno"
 description: "Conceptos, componentes y metodos para determinar si las condiciones del mercado no son un obstáculo para llevar a cabo el proyecto"
 author: "Mgtr. Andreas Schneider"

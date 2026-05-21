@@ -1,5 +1,5 @@
 ---
-title: "Clase 1 – Introducción y preparación del entorno"
+title: "Introducción a la asignatura y preparación del entorno"
 #subtitle: "Clase 1 – Introducción y preparación del entorno"
 description: "Intro al semestre, logistica, objetivos, instalación de software, GitHub, plantilla"
 author: "Mgtr. Andreas Schneider"

@@ -1,5 +1,5 @@
 ---
-title: "Clase 2 – Unidad 1: Introducción y conceptualizacion"
+title: "Introducción y conceptualizacion"
 #subtitle: "Clase 1 – Introducción y preparación del entorno"
 description: "Introduccion y conceptualizacion de sistema de planificacion, planes, programas y proyectos"
 author: "Mgtr. Andreas Schneider"
