@@ -26,6 +26,9 @@ lang: es
 
 # print to pdf
 # https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{r}
@@ -42,21 +45,14 @@ knitr::opts_chunk$set(
 
 ```
 
-
-
-
 ::: {style="text-align: center;"}
-<br>
-<br>
-**Universidad del Sol** 
+<br> <br> **Universidad del Sol**
 
-<br>
-<br>
+<br> <br>
 
 7to. Semestre – Administración de Empresas / Ing. Comercial
-
-
 :::
+
 ------------------------------------------------------------------------
 
 ### Objectivo general {.unnumbered}
@@ -65,15 +61,15 @@ Al concluir el estudio de este capítulo el alumno conocerá, comprenderá
 y aplicara una metodología para realizar un estudio de mercado enfocado
 a la evaluación de proyectos.
 
----
+------------------------------------------------------------------------
 
 ### Objetivos especificos {.unnumbered .smaller}
 
-- *Definir*    que es demanda y oferta.
-- *Explicar*   cuales son los componente y etapas de la investigación de mercado.
-- *Explicar*   métodos de investigación y técnicas de pronósticos de mercado.
-
-
+- *Definir* que es demanda y oferta.
+- *Explicar* cuales son los componente y etapas de la investigación de
+  mercado.
+- *Explicar* métodos de investigación y técnicas de pronósticos de
+  mercado.
 
 # Introduccion
 
@@ -82,10 +78,10 @@ tener una buena idea; es imperativo comprender las fuerzas invisibles
 que determinarán si esa idea se transformará en ingresos reales. En el
 marco de un estudio de factibilidad, la Demanda y la Oferta no son solo
 curvas en un gráfico, sino la representación del comportamiento humano y
-empresarial bajo condiciones de escasez.
-A continuación, se detalla la conceptualización técnica de ambos pilares:
+empresarial bajo condiciones de escasez. A continuación, se detalla la
+conceptualización técnica de ambos pilares:
 
----
+------------------------------------------------------------------------
 
 ## Estructura de analisis
 
@@ -93,142 +89,367 @@ A continuación, se detalla la conceptualización técnica de ambos pilares:
 
 ## El mercado
 
--	Escasez y Asignación: La economía busca asignar recursos limitados
-(capital, trabajo, insumos) para satisfacer necesidades humanas ilimitadas.
+- Escasez y Asignación: La economía busca asignar recursos limitados
+  (capital, trabajo, insumos) para satisfacer necesidades humanas
+  ilimitadas.
 
--	Definición de Mercado: Es el lugar donde se realizan transacciones de
-bienes y servicios por dinero. En un mercado competitivo, hay tantos compradores y vendedores que ninguno puede influir por sí solo en el precio.
+- Definición de Mercado: Es el lugar donde se realizan transacciones de
+  bienes y servicios por dinero. En un mercado competitivo, hay tantos
+  compradores y vendedores que ninguno puede influir por sí solo en el
+  precio.
 
--	Equilibrio de Mercado: Se alcanza cuando el precio y la cantidad
-motivan tanto a productores a fabricar como a consumidores a adquirir el bien.
-
+- Equilibrio de Mercado: Se alcanza cuando el precio y la cantidad
+  motivan tanto a productores a fabricar como a consumidores a adquirir
+  el bien.
 
 ## La Demanda: La Perspectiva del Mercado Meta
 
 - En un estudio de factibilidad, la demanda es la cuantificación de la
-necesidad o el deseo de un bien o servicio, [respaldado por el poder
-adquisitivo.]{.underline} Para un administrador, no solo importa cuánta gente "quiere"
-el producto, sino **cuántos están dispuestos y pueden pagarlo a distintos
-niveles de precio.**
+  necesidad o el deseo de un bien o servicio, [respaldado por el poder
+  adquisitivo.]{.underline} Para un administrador, no solo importa
+  cuánta gente "quiere" el producto, sino **cuántos están dispuestos y
+  pueden pagarlo a distintos niveles de precio.**
 
----
+------------------------------------------------------------------------
 
 La demanda es la búsqueda de satisfactores para una necesidad. Es vital
 entender qué la mueve:
 
--	Ley de la Demanda: Generalmente, si el precio sube, la cantidad demandada baja (y viceversa), lo que se gráfica como un movimiento sobre la misma curva.
+- Ley de la Demanda: Generalmente, si el precio sube, la cantidad
+  demandada baja (y viceversa), lo que se gráfica como un movimiento
+  sobre la misma curva.
 
--	Factores que desplazan la curva: Variables ajenas al precio que hacen que la demanda total cambie:
+- Factores que desplazan la curva: Variables ajenas al precio que hacen
+  que la demanda total cambie:
 
--	Ingresos: Si el ingreso sube, aumenta la demanda de "bienes normales", pero puede bajar la de "bienes inferiores".
+- Ingresos: Si el ingreso sube, aumenta la demanda de "bienes normales",
+  pero puede bajar la de "bienes inferiores".
 
----
+------------------------------------------------------------------------
 
--	Bienes Relacionados: Los complementarios (si sube el precio de uno, baja la demanda del otro, como cine y palomitas) y los sustitutos (si baja el precio del sustituto, cae la demanda de nuestro producto).
+- Bienes Relacionados: Los complementarios (si sube el precio de uno,
+  baja la demanda del otro, como cine y palomitas) y los sustitutos (si
+  baja el precio del sustituto, cae la demanda de nuestro producto).
 
--	Gustos y Expectativas: Las preferencias personales y lo que el cliente espera del futuro afectan el consumo actual.
+- Gustos y Expectativas: Las preferencias personales y lo que el cliente
+  espera del futuro afectan el consumo actual.
 
----
+------------------------------------------------------------------------
 
 ### La curva de la demanda {.smaller}
 
-- La curva de demanda representa el comportamiento de los [**compradores.**]{.underline}
-Tiene pendiente negativa (va hacia abajo) porque existe una relación
-inversa entre el precio y la cantidad: cuanto más caro es un bien, menos
-unidades la gente quiere comprar.
+- La curva de demanda representa el comportamiento de los
+  [**compradores.**]{.underline} Tiene pendiente negativa (va hacia
+  abajo) porque existe una relación inversa entre el precio y la
+  cantidad: cuanto más caro es un bien, menos unidades la gente quiere
+  comprar.
 
-- En el siguiente gráfico vemos tres puntos:    
-•	Punto A: El precio es alto → los compradores piden poca cantidad.   
-•	Punto B: Precio intermedio → cantidad intermedia.   
-•	Punto C: El precio es bajo → los compradores demandan mucha más cantidad.
+- En el siguiente gráfico vemos tres puntos:\
+  • Punto A: El precio es alto → los compradores piden poca cantidad.\
+  • Punto B: Precio intermedio → cantidad intermedia.\
+  • Punto C: El precio es bajo → los compradores demandan mucha más
+  cantidad.
 
----
+------------------------------------------------------------------------
 
-## {.unnumbered .bigger}
+##  {.unnumbered .bigger}
 
 [**Ley de la Demanda:**]{.underline}
 
-Cuando el precio sube, la cantidad demandada baja.    
+Cuando el precio sube, la cantidad demandada baja.\
 Cuando el precio baja, la cantidad demandada sube.
 
----
+------------------------------------------------------------------------
 
 ![](images/curva_demanda.png)
 
 ## La curva de la oferta
 
-- La curva de oferta representa el comportamiento de los [**vendedores.**]{.underline}
-Tiene pendiente positiva (va hacia arriba) porque existe una relación directa
-entre el precio y la cantidad ofrecida: cuanto más alto es el precio,
-más les conviene producir y vender.
+- La curva de oferta representa el comportamiento de los
+  [**vendedores.**]{.underline} Tiene pendiente positiva (va hacia
+  arriba) porque existe una relación directa entre el precio y la
+  cantidad ofrecida: cuanto más alto es el precio, más les conviene
+  producir y vender.
 
-- En el gráfico vemos tres puntos:    
-•	Punto A: El precio es bajo → los vendedores ofrecen poca cantidad (no es rentable).   
-•	Punto B: Precio intermedio → cantidad intermedia.   
-•	Punto C: El precio es alto → los vendedores ofrecen mucha más cantidad.
+- En el gráfico vemos tres puntos:\
+  • Punto A: El precio es bajo → los vendedores ofrecen poca cantidad
+  (no es rentable).\
+  • Punto B: Precio intermedio → cantidad intermedia.\
+  • Punto C: El precio es alto → los vendedores ofrecen mucha más
+  cantidad.
 
----
+------------------------------------------------------------------------
 
-## {.unnumbered .bigger}
+##  {.unnumbered .bigger}
 
-[**Ley de la Oferta:**]{.underlinde} 
+[**Ley de la Oferta:**]{.underlinde}
 
-Cuando el precio sube, la cantidad ofrecida también sube.   
+Cuando el precio sube, la cantidad ofrecida también sube.\
 Cuando el precio baja, la cantidad ofrecida también baja.
 
----
+------------------------------------------------------------------------
 
 ![](images/curva_oferta.png)
 
----
-
+------------------------------------------------------------------------
 
 ## La oferta y demanda - un ejemplo {.smaller}
 
-- Imagina que estás en un mercado de frutas. Hay dos grupos de personas:    
-los compradores (que quieren fruta) y los vendedores (que tienen fruta para vender).
-La oferta y la demanda es simplemente la historia de cómo estos dos grupos
-interactúan para ponerse de acuerdo en un precio.
+- Imagina que estás en un mercado de frutas. Hay dos grupos de
+  personas:\
+  los compradores (que quieren fruta) y los vendedores (que tienen fruta
+  para vender). La oferta y la demanda es simplemente la historia de
+  cómo estos dos grupos interactúan para ponerse de acuerdo en un
+  precio.
 
-- La Curva de Demanda — El lado de los Compradores    
-Cuanto más barato es algo, más gente lo quiere.
-Si las manzanas cuestan $10 cada una, probablemente comprarías solo una,
-o ninguna. Pero si cuestan $0,50, llenarías tu canasta. Esta es la Ley de
-la Demanda: cuando el precio sube, la cantidad demandada baja. Por eso la
-curva de demanda tiene pendiente negativa
-(va hacia abajo de izquierda a derecha) — es simplemente la naturaleza humana.
+- La Curva de Demanda — El lado de los Compradores\
+  Cuanto más barato es algo, más gente lo quiere. Si las manzanas
+  cuestan \$10 cada una, probablemente comprarías solo una, o ninguna.
+  Pero si cuestan \$0,50, llenarías tu canasta. Esta es la Ley de la
+  Demanda: cuando el precio sube, la cantidad demandada baja. Por eso la
+  curva de demanda tiene pendiente negativa (va hacia abajo de izquierda
+  a derecha) — es simplemente la naturaleza humana.
 
-
-
-
----
+------------------------------------------------------------------------
 
 La Curva de Oferta — El lado de los Vendedores
 
-Cuanto más alto es el precio, más quieren producir los vendedores.
-Si las manzanas se venden a $0,50, los agricultores apenas se molestan — no vale la pena su esfuerzo. ¿Pero a $10 cada una? ¡Plantarían todos los campos que tuvieran!
+Cuanto más alto es el precio, más quieren producir los vendedores. Si
+las manzanas se venden a \$0,50, los agricultores apenas se molestan —
+no vale la pena su esfuerzo. ¿Pero a \$10 cada una? ¡Plantarían todos
+los campos que tuvieran!
 
 Esta es la Ley de la Oferta: cuando el precio sube, la cantidad ofrecida
 también sube. Por eso la curva de oferta tiene pendiente positiva.
 
-
 ## Ejercicios practicos
 
-[Eventos reales que influyen en la oferta y demanda](https://econarena.com/games/supply-demand)
-
+[Eventos reales que influyen en la oferta y
+demanda](https://econarena.com/games/supply-demand)
 
 ## El Comportamiento del Consumidor
 
-•	Utilidad Marginal Decreciente: La satisfacción que da cada unidad adicional de un bien tiende a disminuir. El punto de saciedad ocurre cuando la satisfacción adicional es cero; consumir más allá produce insatisfacción.
-•	Restricción Presupuestaria: Los consumidores tienen ingresos limitados y deben elegir la combinación de bienes que maximice su utilidad dentro de ese presupuesto.
-•	Indiferencia: Existen "curvas de indiferencia" que muestran combinaciones de productos que dan la misma satisfacción al cliente (ej. producto substituto perfecto:
-libro impreso - libro electrónico, producto complementario: tablet - funda tablet)
+• Utilidad Marginal Decreciente: La satisfacción que da cada unidad
+adicional de un bien tiende a disminuir. El punto de saciedad ocurre
+cuando la satisfacción adicional es cero; consumir más allá produce
+insatisfacción.\
+• Restricción Presupuestaria: Los consumidores tienen ingresos limitados
+y deben elegir la combinación de bienes que maximice su utilidad dentro
+de ese presupuesto.\
+• Indiferencia: Existen "curvas de indiferencia" que muestran
+combinaciones de productos que dan la misma satisfacción al cliente (ej.
+producto substituto perfecto: libro impreso - libro electrónico,
+producto complementario: tablet - funda tablet)
 
 ## Estructuras y Fallas de Mercado
-No todos los mercados son perfectos. Existen imperfecciones que debemos identificar:
-•	Monopolio/Monopsonio: Un solo vendedor o un solo comprador controla el precio.
-•	Oligopolio/Oligopsonio: Un grupo pequeño de empresas o compradores domina el mercado.
+
+No todos los mercados son perfectos. Existen imperfecciones que debemos
+identificar: • Monopolio/Monopsonio: Un solo vendedor o un solo
+comprador controla el precio. • Oligopolio/Oligopsonio: Un grupo pequeño
+de empresas o compradores domina el mercado.
 
 ## Elasticidades
+
+## Elasticidades - Qué es?
+
+La forma de establecer tus precios afecta a todos los aspectos de tu
+empresa.
+
+Tus precios afectan a tu margen de beneficio, y muchas empresas aplican
+subidas de precios para aumentar los ingresos, siempre y cuando no
+pierdan ventas.
+
+Pero **¿cómo afectan los precios a tu empresa?** La elasticidad precio
+de la demanda es la capacidad de respuesta del cliente ante los cambios
+en los precios. Si, por ejemplo, aumentas los precios, puedes perder
+clientes por su sensibilidad al precio y esto afectará al ingreso total
+de tu negocio. En cambio, si bajas tus precios, es posible que consigas
+más clientes.
+
+------------------------------------------------------------------------
+
+La elasticidad precio de la demanda (EPD) es una forma de medir lo
+receptivos que son los clientes a las variaciones de precio de un
+producto o servicio.
+
+La elasticidad precio de la demanda se utiliza en la teoría económica
+para comprender la oferta y la demanda de los productos cuando los
+precios cambian.
+
+Por ejemplo, una empresa de comercio electrónico que vende complementos
+podría aumentar el precio de un producto determinado y ver reducirse su
+demanda. Aunque tenga que subir los precios para mantenerse al día con
+el aumento de los costes, esto puede afectar directamente a sus
+ingresos.
+
+## Como se calcula la elasticidad?
+
+Saber calcular la elasticidad precio de la demanda permite saber si un
+producto o servicio es elástico, lo que significa que la demanda cambia
+considerablemente incluso con el más mínimo ajuste del precio. En otras
+palabras: Los clientes son sensibles a los cambios de precio.
+
+Para calcular la elasticidad precio de la demanda, debes dividir el
+cambio porcentual en la cantidad demandada (Q) por el cambio porcentual
+en el precio (P).
+
+$$E_d = \frac{\% \Delta Q}{\% \Delta P}$$
+
+## La formula detallada:
+
+$$E_d = \frac{\frac{Q_2 - Q_1}{Q_1}}{\frac{P_2 - P_1}{P_1}}$$ Variables
+$E_{d}$ = Elasticidad precio de la demanda\
+$P_{1}$ = Precio inicial\
+$P_{2}$ = Precio final\
+$Q_{1}$ = Cantidad demandada inicial\
+$Q_{2}$ = Cantidad demandada final\
+$\Delta$ = Variación o cambio
+
+------------------------------------------------------------------------
+
+## Ejemplo - demanda elastica {.unnumbered}
+
+Un panadero sube el precio de un pan de primera calidad de 2000
+Guaraníes a 2500 Guaraníes. Como resultado, la demanda diaria baja de
+100 a 70 panes.
+
+::: fragment
+$P_1 = 2000$, $P_2 = 2500$ $Q_1 = 100$, $Q_2 = 70$
+:::
+<!-- $$E_d = \frac{\frac{70 - 100}{100}}{\frac{2500 - 2000}{2000}}$$ -->
+
+---
+
+La variación del precio se calcula:
+
+$$\Delta P\% = \frac{2500 - 2000}{2000} \cdot 100$$
+
+::: fragment
+La variación de la cantidad se calcula:
+
+$$\Delta Q\% = \frac{70 - 100}{100} \cdot 100$$
+:::
+
+---
+
+Por lo tanto, la elasticidad se calcula:
+
+$$E_d = \frac{30 \%}{25\%} = 1.2$$
+
+---
+
+## Ejemplo - demanda inelastica {.unnumbered}
+
+El dueño de una gasolinera sube el precio del litro de gasolina de 1,50 €
+a 1,80 €. Como la gente sigue teniendo que conducir para ir a trabajar,
+la cantidad vendida al día solo disminuye ligeramente, de 1.000 litros a
+950 litros.
+
+::: fragment
+$P_1 = 1.5$, $P_2 = 1.8$ $Q_1 = 1000$, $Q_2 = 950$
+:::
+
+---
+
+La variación del precio se calcula:
+
+$$\Delta P\% = \frac{1.8 - 1.5}{1.5} \cdot 100$$
+
+::: fragment
+La variación de la cantidad se calcula:
+
+$$\Delta Q\% = \frac{950 - 1000}{1000} \cdot 100$$
+:::
+
+---
+
+Por lo tanto, la elasticidad se calcula:
+
+$$E_d = \frac{5 \%}{20\%} = 0.25$$
+
+**Interpretación:** Dado que el valor 0,25 es menor que 1, la demanda es inelástica.
+
+Es decir: Los clientes apenas reaccionan al aumento de precio. El precio
+ha subido un significativo 20%, pero la demanda solo ha disminuido un
+pequeño 5%.
+
+Impacto para el minorista: El aumento de precio fue rentable. Las ventas
+están aumentando porque el mayor precio por litro compensa fácilmente la
+mínima pérdida de clientes.
+
+---
+
+¿Por qué es importante?
+
+Las empresas utilizan esta métrica para su estrategia:
+
+Los **descuentos suelen ser rentables para productos elásticos**, ya que
+disparan las ventas.
+
+Los precios de los productos inelásticos se pueden subir con mayor
+facilidad para incrementar los beneficios, dado que los clientes tienden
+a ser fieles.
+
+## Factores que afectan la elasticidad
+
+La elasticidad de la demanda no es aleatoria.
+
+Depende en gran medida de
+las características del producto y de las circunstancias de los compradores.
+
+Estos son los cuatro factores más importantes que determinan si la
+demanda es elástica (flexible) o inelástica (rígida):
+
+## Disponibilidad de productos sustitutivos
+
+Este es el factor más importante. Si existen alternativas sencillas, los
+clientes cambiarán de inmediato.
+
+• Muchas alternativas → Elástica: Si sube el precio de Pepsi, la gente
+comprará Coca-Cola.
+
+• Sin alternativas → Inelástica: No existe un sustituto rápido para la
+electricidad o un medicamento patentado específico.
+
+## Necesidad del producto (esencial vs. de lujo)
+
+Los artículos absolutamente necesarios para la supervivencia o la vida
+diaria casi siempre se compran.
+
+• Artículo de lujo → Elástico: Un reloj caro o unas vacaciones se dejan
+de lado cuando suben los precios.
+
+• Artículo esencial → Inelástico: El pan, el agua, la sal o el billete
+de transporte público siguen siendo necesarios.
+
+## Porcentaje de ingresos
+
+El costo de un producto en relación con el presupuesto total juega un
+papel importante.
+
+• Porcentaje elevado → Elástico: Un coche o una cocina nueva cuestan
+mucho dinero. Si el precio sube un 10 %, los clientes lo notan
+inmediatamente y posponen la compra.
+
+• Porcentaje reducido → Inelástico: Si un paquete de chicles o cerillas
+cuesta de repente 1,20 € (+20 %) en lugar de 1,00 €, la mayoría de la
+gente no lo notará en su vida diaria.
+
+
+## El horizonte temporal (corto plazo vs. largo plazo)
+
+Las reacciones de los consumidores cambian con el tiempo.
+
+• Corto plazo → Inelástica: Si el precio de la gasolina sube bruscamente
+hoy, la gente seguirá necesitando llenar el tanque mañana para ir a
+trabajar.
+
+• Largo plazo → Elástica: Si los precios altos de la gasolina persisten
+durante años, la gente reaccionará: comprará coches más eficientes en
+consumo, usará bicicletas eléctricas o se pasará al transporte público.
+La demanda se vuelve más elástica.
+
+---
+## Resumen grafico
 
 ![](images/elasticidades.png)

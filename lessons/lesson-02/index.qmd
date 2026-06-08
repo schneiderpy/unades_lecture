@@ -156,7 +156,7 @@ otros centros médicos.
 
 ---
 
-## Etapas de un proyecto de inversion
+## Etapas de un proyecto de inversión
 
 ![](images/etapas-proyectos.png){fig-align="center"}
 
@@ -185,7 +185,7 @@ formas distintas, dependiendo de la cantidad y la calidad de la
 información considerada en la evaluación: perfil, prefactibilidad y
 factibilidad.
 
-## Proceso de la evaluacion {.smaller}
+## Proceso de la evaluación {.smaller}
 
 En un estudio de evaluación de proyectos se distinguen tres niveles de
 profundidad.

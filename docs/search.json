@@ -81,14 +81,14 @@
     "href": "lessons/lesson-04/index.html#punto-de-equilibrio-muy-importante",
     "title": "Relaciones con el mercado",
     "section": "Punto de equilibrio (muy importante)",
-    "text": "Punto de equilibrio (muy importante)\nEl punto de equilibrio es:\nel nivel mínimo de ventas necesario para no tener pérdidas. Fórmula:\n\\[\n\\text{Punto de Equilibrio}=\\frac{\\text{Costos Fijos}}{\\text{Precio de Venta}-\\text{Costo Variable}}\n\\] Ejemplo sencillo Supongamos:\n• Costos fijos = USD 10.000/mes\n• Precio del producto = USD 20\n• Costo variable = USD 12\nEntonces: \\[\n\\frac{10.000}{20-12} = 1.250\n\\]\nLa empresa debe vender:\n• 1.250 unidades mensuales solamente para no perder dinero."
+    "text": "Punto de equilibrio (muy importante)\nEl punto de equilibrio es:\nel nivel mínimo de ventas necesario para no tener pérdidas. Fórmula:\n\\[\n\\text{Punto de Equilibrio}=\\frac{\\text{Costos Fijos}}{\\text{Precio de Venta}-\\text{Costo Variable}}\n\\]"
   },
   {
     "objectID": "lessons/lesson-04/index.html#errores-comunes",
     "href": "lessons/lesson-04/index.html#errores-comunes",
     "title": "Relaciones con el mercado",
     "section": "Errores comunes",
-    "text": "Errores comunes\nError 1:\nSobreestimar la demanda Muchos estudiantes asumen: “Todos comprarán”.\nLa realidad: solo un pequeño porcentaje se convierte en cliente.\nError 2:\nIgnorar la competencia Incluso los excelentes productos enfrentan competencia.\nError 3:\nIgnorar los costos de transporte La distancia puede destruir la rentabilidad.\nError 4:\nSubestimar los costos operativos\nEjemplos: • mantenimiento,\n• electricidad,\n• salarios,\n• impuestos,\n• marketing.\nError 5:\nConfundir ingresos con ganancias\nAltas ventas no siempre significan altas ganancias."
+    "text": "Errores comunes\nError 1:\nSobreestimar la demanda: Muchos estudiantes asumen “Todos comprarán”.\nLa realidad: solo un pequeño porcentaje se convierte en cliente.\nError 2:\nIgnorar la competencia: Incluso los excelentes productos enfrentan competencia.\nError 3:\nIgnorar los costos de transporte: La distancia puede destruir la rentabilidad."
   },
   {
     "objectID": "lessons/lesson-04/index.html#estructura-sencilla-para-enseñar-un-estudio-de-factibilidad",
@@ -102,14 +102,14 @@
     "href": "lessons/lesson-04/index.html#ejemplo-práctico-muy-simple",
     "title": "Relaciones con el mercado",
     "section": "Ejemplo práctico muy simple",
-    "text": "Ejemplo práctico muy simple\nEjemplo:\nPanadería cerca de una universidad\nMercado • 5.000 estudiantes cercanos\n• alto tráfico peatonal diario\nUbicación • cerca de paradas de buses\n• esquina visible\nFuerza laboral • panaderos disponibles localmente\nInversión • hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento • ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad\n¿Las ventas podrán cubrir: • salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
+    "text": "Ejemplo práctico muy simple\nEjemplo:\nPanadería cerca de una universidad\nMercado\n• 5.000 estudiantes cercanos\n• alto tráfico peatonal diario\nUbicación\n• cerca de paradas de buses\n• esquina visible\nFuerza laboral\n• panaderos disponibles localmente"
   },
   {
     "objectID": "lessons/lesson-04/index.html#mensaje-final",
     "href": "lessons/lesson-04/index.html#mensaje-final",
     "title": "Relaciones con el mercado",
     "section": "Mensaje final",
-    "text": "Mensaje final\nLos estudiantes deben comprender que:\nUn estudio de factibilidad no busca demostrar que un proyecto es “bueno”.\nSu objetivo es:\n• identificar riesgos,\n• probar supuestos,\n• y apoyar decisiones antes de invertir recursos.\nLos mejores estudios de factibilidad son:\n• realistas,\n• basados en evidencia,\n• conservadores,\n• y prácticos."
+    "text": "Mensaje final\nUn estudio de factibilidad no busca demostrar que un proyecto es “bueno”.\nSu objetivo es:\n• identificar riesgos,\n• probar supuestos,\n• y apoyar decisiones antes de invertir recursos.\nLos mejores estudios de factibilidad son:\n• realistas,\n• basados en evidencia,\n• conservadores,\n• y prácticos."
   },
   {
     "objectID": "lessons/lesson-02/index.html#que-es-un-proyecto",
@@ -354,7 +354,7 @@
     "href": "lessons/lesson-03/index.html#el-comportamiento-del-consumidor",
     "title": "Estudio de mercado",
     "section": "El Comportamiento del Consumidor",
-    "text": "El Comportamiento del Consumidor\n• Utilidad Marginal Decreciente: La satisfacción que da cada unidad adicional de un bien tiende a disminuir. El punto de saciedad ocurre cuando la satisfacción adicional es cero; consumir más allá produce insatisfacción. • Restricción Presupuestaria: Los consumidores tienen ingresos limitados y deben elegir la combinación de bienes que maximice su utilidad dentro de ese presupuesto. • Indiferencia: Existen “curvas de indiferencia” que muestran combinaciones de productos que dan la misma satisfacción al cliente (ej. producto substituto perfecto: libro impreso - libro electrónico, producto complementario: tablet - funda tablet)"
+    "text": "El Comportamiento del Consumidor\n• Utilidad Marginal Decreciente: La satisfacción que da cada unidad adicional de un bien tiende a disminuir. El punto de saciedad ocurre cuando la satisfacción adicional es cero; consumir más allá produce insatisfacción.\n• Restricción Presupuestaria: Los consumidores tienen ingresos limitados y deben elegir la combinación de bienes que maximice su utilidad dentro de ese presupuesto.\n• Indiferencia: Existen “curvas de indiferencia” que muestran combinaciones de productos que dan la misma satisfacción al cliente (ej. producto substituto perfecto: libro impreso - libro electrónico, producto complementario: tablet - funda tablet)"
   },
   {
     "objectID": "lessons/lesson-03/index.html#estructuras-y-fallas-de-mercado",
@@ -369,5 +369,145 @@
     "title": "Estudio de mercado",
     "section": "Elasticidades",
     "text": "Elasticidades"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#elasticidades---qué-es",
+    "href": "lessons/lesson-03/index.html#elasticidades---qué-es",
+    "title": "Estudio de mercado",
+    "section": "Elasticidades - Qué es?",
+    "text": "Elasticidades - Qué es?\nLa forma de establecer tus precios afecta a todos los aspectos de tu empresa.\nTus precios afectan a tu margen de beneficio, y muchas empresas aplican subidas de precios para aumentar los ingresos, siempre y cuando no pierdan ventas.\nPero ¿cómo afectan los precios a tu empresa? La elasticidad precio de la demanda es la capacidad de respuesta del cliente ante los cambios en los precios. Si, por ejemplo, aumentas los precios, puedes perder clientes por su sensibilidad al precio y esto afectará al ingreso total de tu negocio. En cambio, si bajas tus precios, es posible que consigas más clientes."
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#como-se-calcula-la-elasticidad",
+    "href": "lessons/lesson-03/index.html#como-se-calcula-la-elasticidad",
+    "title": "Estudio de mercado",
+    "section": "Como se calcula la elasticidad?",
+    "text": "Como se calcula la elasticidad?\nSaber calcular la elasticidad precio de la demanda permite saber si un producto o servicio es elástico, lo que significa que la demanda cambia considerablemente incluso con el más mínimo ajuste del precio. En otras palabras: Los clientes son sensibles a los cambios de precio.\nPara calcular la elasticidad precio de la demanda, debes dividir el cambio porcentual en la cantidad demandada (Q) por el cambio porcentual en el precio (P).\n\\[E_d = \\frac{\\% \\Delta Q}{\\% \\Delta P}\\]"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#e_d-frac-delta-q-delta-p",
+    "href": "lessons/lesson-03/index.html#e_d-frac-delta-q-delta-p",
+    "title": "Estudio de mercado",
+    "section": "\\[E_d = \\frac{\\% \\Delta Q}{\\% \\Delta P}\\]",
+    "text": "\\[E_d = \\frac{\\% \\Delta Q}{\\% \\Delta P}\\]\nLa formula detallada:\n\\[E_d = \\frac{\\frac{Q_2 - Q_1}{Q_1}}{\\frac{P_2 - P_1}{P_1}}\\] Variables(E_{d}) = Elasticidad precio de la demanda\n\\(\\(P_{1}\\)\\) = Precio inicial\n(P_{2}) = Precio final\n(Q_{1}) = Cantidad demandada inicial\n(Q_{2}) = Cantidad demandada final\n() = Variación o cambio"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#la-formula-detallada",
+    "href": "lessons/lesson-03/index.html#la-formula-detallada",
+    "title": "Estudio de mercado",
+    "section": "La formula detallada:",
+    "text": "La formula detallada:\n\\[E_d = \\frac{\\frac{Q_2 - Q_1}{Q_1}}{\\frac{P_2 - P_1}{P_1}}\\] Variables \\(E_{d}\\) = Elasticidad precio de la demanda\n\\(P_{1}\\) = Precio inicial\n\\(P_{2}\\) = Precio final\n\\(Q_{1}\\) = Cantidad demandada inicial\n\\(Q_{2}\\) = Cantidad demandada final\n\\(\\Delta\\) = Variación o cambio"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#ejemplo",
+    "href": "lessons/lesson-03/index.html#ejemplo",
+    "title": "Estudio de mercado",
+    "section": "Ejemplo",
+    "text": "Ejemplo\nUn panadero sube el precio de un pan de primera calidad de 2000 Guaraníes a 2500 Guaraníes. Como resultado, la demanda diaria baja de 100 a 70 panes.\n\n\\(P_1 = 2000\\), \\(P_2 = 2500\\) \\(Q_1 = 100\\), \\(Q_2 = 70\\)"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#ejemplo---demanda-elastica",
+    "href": "lessons/lesson-03/index.html#ejemplo---demanda-elastica",
+    "title": "Estudio de mercado",
+    "section": "Ejemplo - demanda elastica",
+    "text": "Ejemplo - demanda elastica\nUn panadero sube el precio de un pan de primera calidad de 2000 Guaraníes a 2500 Guaraníes. Como resultado, la demanda diaria baja de 100 a 70 panes.\n\n\\(P_1 = 2000\\), \\(P_2 = 2500\\) \\(Q_1 = 100\\), \\(Q_2 = 70\\)"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#ejemplo---demanda-inelastica",
+    "href": "lessons/lesson-03/index.html#ejemplo---demanda-inelastica",
+    "title": "Estudio de mercado",
+    "section": "Ejemplo - demanda inelastica",
+    "text": "Ejemplo - demanda inelastica\nEl dueño de una gasolinera sube el precio del litro de gasolina de 1,50 € a 1,80 €. Como la gente sigue teniendo que conducir para ir a trabajar, la cantidad vendida al día solo disminuye ligeramente, de 1.000 litros a 950 litros.\n\n\\(P_1 = 1.5\\), \\(P_2 = 1.8\\) \\(Q_1 = 1000\\), \\(Q_2 = 950\\)"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#factores-que-afectan-la-elasticidad",
+    "href": "lessons/lesson-03/index.html#factores-que-afectan-la-elasticidad",
+    "title": "Estudio de mercado",
+    "section": "Factores que afectan la elasticidad",
+    "text": "Factores que afectan la elasticidad\nLa elasticidad de la demanda no es aleatoria.\nDepende en gran medida de las características del producto y de las circunstancias de los compradores.\nEstos son los cuatro factores más importantes que determinan si la demanda es elástica (flexible) o inelástica (rígida):"
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#disponibilidad-de-productos-sustitutivos",
+    "href": "lessons/lesson-03/index.html#disponibilidad-de-productos-sustitutivos",
+    "title": "Estudio de mercado",
+    "section": "Disponibilidad de productos sustitutivos",
+    "text": "Disponibilidad de productos sustitutivos\nEste es el factor más importante. Si existen alternativas sencillas, los clientes cambiarán de inmediato.\n• Muchas alternativas → Elástica: Si sube el precio de Pepsi, la gente comprará Coca-Cola.\n• Sin alternativas → Inelástica: No existe un sustituto rápido para la electricidad o un medicamento patentado específico."
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#necesidad-del-producto-esencial-vs.-de-lujo",
+    "href": "lessons/lesson-03/index.html#necesidad-del-producto-esencial-vs.-de-lujo",
+    "title": "Estudio de mercado",
+    "section": "Necesidad del producto (esencial vs. de lujo)",
+    "text": "Necesidad del producto (esencial vs. de lujo)\nLos artículos absolutamente necesarios para la supervivencia o la vida diaria casi siempre se compran.\n• Artículo de lujo → Elástico: Un reloj caro o unas vacaciones se dejan de lado cuando suben los precios.\n• Artículo esencial → Inelástico: El pan, el agua, la sal o el billete de transporte público siguen siendo necesarios."
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#porcentaje-de-ingresos",
+    "href": "lessons/lesson-03/index.html#porcentaje-de-ingresos",
+    "title": "Estudio de mercado",
+    "section": "Porcentaje de ingresos",
+    "text": "Porcentaje de ingresos\nEl costo de un producto en relación con el presupuesto total juega un papel importante.\n• Porcentaje elevado → Elástico: Un coche o una cocina nueva cuestan mucho dinero. Si el precio sube un 10 %, los clientes lo notan inmediatamente y posponen la compra.\n• Porcentaje reducido → Inelástico: Si un paquete de chicles o cerillas cuesta de repente 1,20 € (+20 %) en lugar de 1,00 €, la mayoría de la gente no lo notará en su vida diaria."
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#el-horizonte-temporal-corto-plazo-vs.-largo-plazo",
+    "href": "lessons/lesson-03/index.html#el-horizonte-temporal-corto-plazo-vs.-largo-plazo",
+    "title": "Estudio de mercado",
+    "section": "El horizonte temporal (corto plazo vs. largo plazo)",
+    "text": "El horizonte temporal (corto plazo vs. largo plazo)\nLas reacciones de los consumidores cambian con el tiempo.\n• Corto plazo → Inelástica: Si el precio de la gasolina sube bruscamente hoy, la gente seguirá necesitando llenar el tanque mañana para ir a trabajar.\n• Largo plazo → Elástica: Si los precios altos de la gasolina persisten durante años, la gente reaccionará: comprará coches más eficientes en consumo, usará bicicletas eléctricas o se pasará al transporte público. La demanda se vuelve más elástica."
+  },
+  {
+    "objectID": "lessons/lesson-03/index.html#resumen-grafico",
+    "href": "lessons/lesson-03/index.html#resumen-grafico",
+    "title": "Estudio de mercado",
+    "section": "Resumen grafico",
+    "text": "Resumen grafico"
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#errores-comunes-continuacion",
+    "href": "lessons/lesson-04/index.html#errores-comunes-continuacion",
+    "title": "Relaciones con el mercado",
+    "section": "Errores comunes (continuacion)",
+    "text": "Errores comunes (continuacion)\nError 4:\nSubestimar los costos operativos\nEjemplos:\n• mantenimiento,\n• electricidad,\n• salarios,\n• impuestos,\n• marketing.\nError 5:\nConfundir ingresos con ganancias\nAltas ventas no siempre significan altas ganancias."
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#estructura-sencilla-de-un-estudio-de-factibilidad-ejemplo",
+    "href": "lessons/lesson-04/index.html#estructura-sencilla-de-un-estudio-de-factibilidad-ejemplo",
+    "title": "Relaciones con el mercado",
+    "section": "Estructura sencilla de un estudio de factibilidad (ejemplo)",
+    "text": "Estructura sencilla de un estudio de factibilidad (ejemplo)\nSección | Pregunta principal |\nResumen Ejecutivo | ¿Cuál es el proyecto? |\nEstudio de Mercado | ¿Existe demanda? |\nEstudio Técnico | ¿Puede operar? |\nEstudio de Localización | ¿La ubicación es adecuada? |\nEstudio Organizacional | ¿Quién administrará el proyecto? |\nEstudio Financiero | ¿Es rentable? |\nAnálisis de Riesgos | ¿Qué puede salir mal? |\nConclusión | ¿El proyecto es factible? |"
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-.unnumered-.smaller",
+    "href": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-.unnumered-.smaller",
+    "title": "Relaciones con el mercado",
+    "section": "Ejemplo practico muy simple (.unnumered .smaller)",
+    "text": "Ejemplo practico muy simple (.unnumered .smaller)\nInversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad\n¿Las ventas podrán cubrir: • salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple",
+    "href": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple",
+    "title": "Relaciones con el mercado",
+    "section": "Ejemplo practico muy simple",
+    "text": "Ejemplo practico muy simple\nInversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad\n¿Las ventas podrán cubrir: • salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-cont.",
+    "href": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-cont.",
+    "title": "Relaciones con el mercado",
+    "section": "Ejemplo practico muy simple (cont.)",
+    "text": "Ejemplo practico muy simple (cont.)\nInversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad: ¿Las ventas podrán cubrir:\n• salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#section",
+    "href": "lessons/lesson-04/index.html#section",
+    "title": "Relaciones con el mercado",
+    "section": "",
+    "text": "Error 4:\nSubestimar los costos operativos\nEjemplos:\n• mantenimiento,\n• electricidad,\n• salarios,\n• impuestos,\n• marketing.\nError 5:\nConfundir ingresos con ganancias\nAltas ventas no siempre significan altas ganancias."
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#section-1",
+    "href": "lessons/lesson-04/index.html#section-1",
+    "title": "Relaciones con el mercado",
+    "section": "",
+    "text": "Inversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad: ¿Las ventas podrán cubrir:\n• salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
   }
 ]
