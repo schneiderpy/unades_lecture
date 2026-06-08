@@ -1,0 +1,547 @@
+---
+title: "Relaciones con el mercado"
+#subtitle: "Clase 1 – Introducción y preparación del entorno"
+description: "Tamaño del mercado, Inversion, Financiamiento, Localizacion, transporte, mano de obra"
+author: "Mgtr. Andreas Schneider"
+date: "05/20/2026"
+date-format: "DD MMMM YYYY"
+pdf: "[📥 Download](lesson-04/lesson-04.pdf)"
+format:
+  revealjs:
+    theme: dark
+    slide-number: false
+    toc: false
+    toc-depth: 2
+    number-sections: false
+    transition: fade
+    incremental: true
+    footer: "Mgtr. Andreas Schneider - Schneider | Consulting Firm"
+    logo: logo.png #must be in the same folder as well as scss file
+    # css: custom.scss
+    output-file: index.html
+    preview-links: auto
+execute:
+  echo: false
+lang: es
+
+# print to pdf
+# https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+knitr::opts_chunk$set(
+  fig.width = 6,
+  fig.height = 3,
+  fig.align = "center",
+  cache = TRUE,         # ← add this
+  dpi = 150             # default is 300 — halves render time for fig.
+)
+
+```
+
+::: {style="text-align: center;"}
+<br> <br> **Universidad del Sol**
+
+<br> <br>
+
+7to. Semestre – Administración de Empresas / Ing. Comercial
+:::
+
+------------------------------------------------------------------------
+
+### Objectivo general {.unnumbered}
+
+Al concluir el estudio de este capítulo el alumno conocerá, comprenderá las relaciones con el mercado.
+
+------------------------------------------------------------------------
+
+### Objetivos especificos {.unnumbered .smaller}
+
+- *Definir* relaciones con el mercado.
+- *Explicar* las diferentes áreas del mercado.
+- *Explicar* métodos y técnicas simples para estimar el tamaño del mercado.
+
+# Introduccion
+
+**Un estudio de factibilidad es una herramienta para tomar decisiones antes de invertir dinero!**
+
+------------------------------------------------------------------------
+
+## Un estudio de factibilidad ayuda a evitar:
+
+- invertir en malas ideas,
+- subestimar costos,
+- sobreestimar la demanda,
+- elegir una mala ubicación,
+- o fracasar por problemas operativos.
+
+## La lógica básica de un estudio de factibilidad {.smaller}
+
+Un estudio de factibilidad simple normalmente responde cinco preguntas:
+
+| Área           | Pregunta                                        |
+|:---------------|:------------------------------------------------|
+| Mercado        | ¿Los clientes comprarán el producto o servicio? |
+| Técnica        | ¿Podemos producirlo u ofrecerlo?                |
+| Ubicación      | ¿El lugar es adecuado?                          |
+| Organizacional | ¿Tenemos personal y administración adecuados?   |
+| Financiera     | ¿Generará ganancias?                            |
+
+## Comprender el tamaño del mercado (enfoque simple)
+
+El tamaño del mercado no significa:
+
+“¿Cuántas personas existen?”
+
+Eso es incorrecto.
+
+[El tamaño del mercado significa:]{.underline}
+
+**¿Cuántos clientes reales pueden comprar efectivamente el producto o servicio?**
+
+## Los tres niveles del tamaño del mercado
+
+**Mercado Total**
+
+Todas las personas que teóricamente podrían necesitar el producto.
+
+*Ejemplo:* Una nueva cafetería en Asunción.
+
+*Mercado total* = todas las personas que consumen café en la ciudad.
+
+**Pero no todos se convertirán en clientes.**
+
+------------------------------------------------------------------------
+
+**Mercado Disponible**
+
+Personas que:
+
+• viven cerca,\
+• pueden pagar,\
+• y son accesibles comercialmente.
+
+*Ejemplo:*\
+• trabajadores de oficinas dentro de un radio de 3 km.
+
+------------------------------------------------------------------------
+
+**Mercado Objetivo**
+
+El grupo realista que la empresa espera atender.
+
+*Ejemplo:*\
+• jóvenes profesionales que compran café premium diariamente.
+
+**Este es el número más importante.**
+
+## Formula sencillo
+
+Fórmula sencilla para calcular el tamaño del mercado
+
+Una fórmula fácil para principiantes:
+
+**Tamaño del Mercado = Número de Clientes x Frecuencia de Compra x Precio Promedio**
+
+------------------------------------------------------------------------
+
+*Ejemplo*
+
+Supongamos:
+
+• 2.000 clientes potenciales
+
+• compran dos veces por semana
+
+• compra promedio = USD 5
+
+Entonces:
+
+2.000 x 2 x 5 = 20.000
+
+Mercado semanal estimado:
+
+= USD 20.000
+
+## Cómo estimar la demanda - tecnicas
+
+- **Observación**
+
+::: fragment
+Contar:
+
+• personas,
+
+• vehículos,
+
+• clientes,
+
+• tráfico peatonal.
+:::
+
+------------------------------------------------------------------------
+
+- **Encuestas**
+
+::: fragment
+Preguntar:
+
+• ¿Compraría este producto?
+
+• ¿Cuánto estaría dispuesto a pagar?
+
+• ¿Con qué frecuencia compraría?
+
+Las encuestas deben ser breves y sencillas.
+:::
+
+------------------------------------------------------------------------
+
+- **Análisis de Competencia**
+
+::: fragment
+Visitar competidores y observar:
+
+• precios,
+
+• volumen de clientes,
+
+• horarios pico,
+
+• fortalezas y debilidades.
+
+Los competidores suelen ser una de las mejores fuentes de información.
+:::
+
+## Por qué la ubicación geográfica es importante
+
+**Una buena idea en el lugar incorrecto puede fracasar.**
+
+## Factores importantes de localización
+
+- **Acceso a los clientes**
+
+::: fragment
+Pregunta:
+
+¿Los clientes pueden llegar fácilmente al negocio?
+
+*Ejemplos:*
+
+• estacionamiento,
+
+• transporte público,
+
+• visibilidad,
+
+• tráfico peatonal.
+:::
+
+------------------------------------------------------------------------
+
+- **Costos de transporte**
+
+::: fragment
+La distancia afecta:
+
+• costos de materias primas,
+
+• tiempos de entrega,
+
+• gastos de combustible.
+
+*Ejemplo:*
+
+Una fábrica lejos de sus proveedores puede volverse demasiado costosa para operar.
+:::
+
+------------------------------------------------------------------------
+
+- **Infraestructura**
+
+::: fragment
+Los estudiantes deben verificar:
+
+• electricidad,
+
+• agua,
+
+• Internet,
+
+• caminos,
+
+• drenaje.
+
+Un negocio sin infraestructura adecuada enfrentará problemas operativos.
+:::
+
+------------------------------------------------------------------------
+
+- **Seguridad**
+
+::: fragment
+Las zonas inseguras reducen:
+
+• clientes,
+
+• trabajadores,
+
+• atractivo para inversionistas.
+:::
+
+------------------------------------------------------------------------
+
+- **Posibilidades de expansión**
+
+::: fragment
+¿El negocio podrá crecer en el futuro?
+
+Una ubicación puede funcionar hoy, pero impedir expansión futura.
+:::
+
+## Análisis de la fuerza laboral {.smaller}
+
+**Un proyecto puede fracasar si no existen trabajadores capacitados.**
+
+Preguntas a evaluar:
+
+| Área           | Pregunta                                  |
+|:---------------|:------------------------------------------|
+| Disponibilidad | ¿Hay trabajadores disponibles localmente? |
+| Capacidades    | ¿Tienen la formación necesaria?           |
+| Costo          | ¿Los salarios son accesibles?             |
+| Productividad  | ¿Los trabajadores son eficientes?         |
+| Estabilidad    | ¿La rotación laboral es alta?             |
+
+------------------------------------------------------------------------
+
+**Ejemplo**
+
+::: fragment
+Una empresa tecnológica necesita:
+
+• programadores,
+
+• infraestructura digital,
+
+• personal que hable inglés.
+
+Una zona rural puede tener alquileres bajos, pero no disponer de mano de obra calificada.
+:::
+
+## Relación entre mercado y financiamiento
+
+Los bancos e inversionistas normalmente se preguntan:
+
+::: fragment
+[“¿Este proyecto generará suficiente flujo de caja?”]{.underline}
+
+Un buen estudio de mercado mejora las posibilidades de obtener financiamiento.
+:::
+
+------------------------------------------------------------------------
+
+- **Qué suelen analizar los bancos**
+
+::: fragment
+Los bancos analizan:
+
+• ventas esperadas,
+
+• costos,
+
+• ganancias,
+
+• riesgos,
+
+• garantías,
+
+• calidad de la administración.
+
+Un estudio de factibilidad reduce la incertidumbre.
+:::
+
+------------------------------------------------------------------------
+
+- **Diferencia entre inversión y financiamiento**
+
+::: fragment
+Muchos confunden estos conceptos.   
+Inversión   
+Dinero utilizado para comprar activos:    
+• máquinas, • edificios, • vehículos, • equipos.
+:::
+
+------------------------------------------------------------------------
+
+::: fragment
+Financiamiento
+
+Origen del dinero:    
+• préstamos bancarios,    
+• inversionistas,   
+• ahorros,    
+• programas gubernamentales.
+:::
+
+## Lógica financiera básica
+
+Un proyecto es factible si:
+
+Ingresos \> Costos
+
+Ganancia=Ingresos-Costos
+
+Pero los estudiantes también deben comprender:
+
+• tiempos de pago,
+
+• flujo de caja,
+
+• cuotas de deuda,
+
+• estacionalidad.
+
+Un negocio rentable puede fracasar si se queda sin efectivo.
+
+## Punto de equilibrio (muy importante)
+
+El punto de equilibrio es:
+
+el nivel mínimo de ventas necesario para no tener pérdidas. Fórmula:
+
+$$
+\text{Punto de Equilibrio}=\frac{\text{Costos Fijos}}{\text{Precio de Venta}-\text{Costo Variable}} 
+$$
+
+---
+Ejemplo sencillo: Supongamos
+
+• Costos fijos = USD 10.000/mes
+
+• Precio del producto = USD 20
+
+• Costo variable = USD 12
+
+Entonces:
+$$
+\frac{10.000}{20-12} = 1.250
+$$
+
+La empresa debe vender:
+
+1.250 unidades mensuales solamente para no perder dinero. 
+
+## Errores comunes {.smaller}
+
+**Error 1:** 
+
+*Sobreestimar la demanda:* Muchos estudiantes asumen “Todos comprarán”.
+
+La realidad: solo un pequeño porcentaje se convierte en cliente. 
+
+**Error 2:**
+
+*Ignorar la competencia:* Incluso los excelentes productos enfrentan competencia. 
+
+**Error 3:**
+
+*Ignorar los costos de transporte:* La distancia puede destruir la rentabilidad. 
+
+## {.smaller}
+
+**Error 4:**
+
+*Subestimar los costos operativos*
+
+Ejemplos:
+
+• mantenimiento,
+
+• electricidad,
+
+• salarios,
+
+• impuestos,
+
+• marketing.
+
+**Error 5:**
+
+*Confundir ingresos con ganancias*
+
+Altas ventas no siempre significan altas ganancias. 
+
+## Estructura sencilla de un estudio de factibilidad (ejemplo)
+
+| Sección | Pregunta principal |
+| Resumen Ejecutivo | ¿Cuál es el proyecto? |
+| Estudio de Mercado | ¿Existe demanda? |
+| Estudio Técnico | ¿Puede operar? |
+| Estudio de Localización | ¿La ubicación es adecuada? |
+| Estudio Organizacional | ¿Quién administrará el proyecto? |
+| Estudio Financiero | ¿Es rentable? |
+| Análisis de Riesgos | ¿Qué puede salir mal? |
+| Conclusión | ¿El proyecto es factible? |
+
+
+##  Ejemplo práctico muy simple {.smaller}
+
+Ejemplo:
+
+Panadería cerca de una universidad
+
+Mercado
+
+• 5.000 estudiantes cercanos
+
+• alto tráfico peatonal diario
+
+Ubicación
+
+• cerca de paradas de buses
+
+• esquina visible
+
+Fuerza laboral
+
+• panaderos disponibles localmente
+
+##  {.unnumered .smaller}
+
+Inversión
+
+• hornos,   
+• muebles,    
+• inventario inicial.
+
+Financiamiento
+
+• ahorros propios + pequeño préstamo bancario.
+
+Pregunta de factibilidad: **¿Las ventas podrán cubrir:**       
+• salarios,   
+• alquiler,   
+• ingredientes,   
+• cuotas del préstamo,    
+• servicios básicos?
+
+Si la respuesta es sí: el proyecto podría ser factible. \
+
+## Mensaje final
+
+Un estudio de factibilidad no busca demostrar que un proyecto es “bueno”.
+
+Su objetivo es:   
+• identificar riesgos,    
+• probar supuestos,   
+• y apoyar decisiones antes de invertir recursos.
+
+Los mejores estudios de factibilidad son:   
+• realistas,    
+• basados en evidencia,   
+• conservadores,    
+• y prácticos.
