@@ -91,11 +91,18 @@
     "text": "Errores comunes\nError 1:\nSobreestimar la demanda: Muchos estudiantes asumen “Todos comprarán”.\nLa realidad: solo un pequeño porcentaje se convierte en cliente.\nError 2:\nIgnorar la competencia: Incluso los excelentes productos enfrentan competencia.\nError 3:\nIgnorar los costos de transporte: La distancia puede destruir la rentabilidad."
   },
   {
-    "objectID": "lessons/lesson-04/index.html#estructura-sencilla-para-enseñar-un-estudio-de-factibilidad",
-    "href": "lessons/lesson-04/index.html#estructura-sencilla-para-enseñar-un-estudio-de-factibilidad",
+    "objectID": "lessons/lesson-04/index.html#section",
+    "href": "lessons/lesson-04/index.html#section",
     "title": "Relaciones con el mercado",
-    "section": "Estructura sencilla para enseñar un estudio de factibilidad",
-    "text": "Estructura sencilla para enseñar un estudio de factibilidad\nSección | Pregunta principal |\nResumen Ejecutivo | ¿Cuál es el proyecto? |\nEstudio de Mercado | ¿Existe demanda? |\nEstudio Técnico | ¿Puede operar? |\nEstudio de Localización | ¿La ubicación es adecuada? |\nEstudio Organizacional | ¿Quién administrará el proyecto? |\nEstudio Financiero | ¿Es rentable? |\nAnálisis de Riesgos | ¿Qué puede salir mal? |\nConclusión | ¿El proyecto es factible? |"
+    "section": "",
+    "text": "Error 4:\nSubestimar los costos operativos\nEjemplos:\n• mantenimiento,\n• electricidad,\n• salarios,\n• impuestos,\n• marketing.\nError 5:\nConfundir ingresos con ganancias\nAltas ventas no siempre significan altas ganancias."
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#estructura-sencilla-de-un-estudio-de-factibilidad-ejemplo",
+    "href": "lessons/lesson-04/index.html#estructura-sencilla-de-un-estudio-de-factibilidad-ejemplo",
+    "title": "Relaciones con el mercado",
+    "section": "Estructura sencilla de un estudio de factibilidad (ejemplo)",
+    "text": "Estructura sencilla de un estudio de factibilidad (ejemplo)\nSección | Pregunta principal |\nResumen Ejecutivo | ¿Cuál es el proyecto? |\nEstudio de Mercado | ¿Existe demanda? |\nEstudio Técnico | ¿Puede operar? |\nEstudio de Localización | ¿La ubicación es adecuada? |\nEstudio Organizacional | ¿Quién administrará el proyecto? |\nEstudio Financiero | ¿Es rentable? |\nAnálisis de Riesgos | ¿Qué puede salir mal? |\nConclusión | ¿El proyecto es factible? |"
   },
   {
     "objectID": "lessons/lesson-04/index.html#ejemplo-práctico-muy-simple",
@@ -103,6 +110,13 @@
     "title": "Relaciones con el mercado",
     "section": "Ejemplo práctico muy simple",
     "text": "Ejemplo práctico muy simple\nEjemplo:\nPanadería cerca de una universidad\nMercado\n• 5.000 estudiantes cercanos\n• alto tráfico peatonal diario\nUbicación\n• cerca de paradas de buses\n• esquina visible\nFuerza laboral\n• panaderos disponibles localmente"
+  },
+  {
+    "objectID": "lessons/lesson-04/index.html#section-1",
+    "href": "lessons/lesson-04/index.html#section-1",
+    "title": "Relaciones con el mercado",
+    "section": "",
+    "text": "Inversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad: ¿Las ventas podrán cubrir:\n• salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
   },
   {
     "objectID": "lessons/lesson-04/index.html#mensaje-final",
@@ -161,18 +175,18 @@
     "text": "Los proyectos se pueden distinguir entre proyectos que buscan crear nuevos negocios o empresas, y proyectos que buscan evaluar un cambio, mejora o modernización en una empresa existente.\nAlgunos casos típicos de proyectos en empresas en marcha,por ejemplo, para el sector salud son los siguientes.\n\nOutsourcing: externalización de los servicios de lavandería para destinar los espacios liberados a ampliar las instalaciones médicas o para reducir costos.\nAmpliación: construcción y habilitación de nuevos boxes para aumentar la capacidad de atención y reducir las listas de espera de pacientes.\nAbandono: cierre de una parte de la unidad de cirugía reconstructiva si tiene mucha capacidad ociosa, para transformarla en un centro de imageneología.\nInternalización: creación de un laboratorio de procesamiento de muestras en el interior del establecimiento, para evitarle al paciente recurrir a otros centros médicos.\nReemplazo: modernización de los equipos de escáner."
   },
   {
-    "objectID": "lessons/lesson-02/index.html#etapas-de-un-proyecto-de-inversion",
-    "href": "lessons/lesson-02/index.html#etapas-de-un-proyecto-de-inversion",
+    "objectID": "lessons/lesson-02/index.html#etapas-de-un-proyecto-de-inversión",
+    "href": "lessons/lesson-02/index.html#etapas-de-un-proyecto-de-inversión",
     "title": "Introducción y conceptualizacion",
-    "section": "Etapas de un proyecto de inversion",
-    "text": "Etapas de un proyecto de inversion"
+    "section": "Etapas de un proyecto de inversión",
+    "text": "Etapas de un proyecto de inversión"
   },
   {
-    "objectID": "lessons/lesson-02/index.html#proceso-de-la-evaluacion",
-    "href": "lessons/lesson-02/index.html#proceso-de-la-evaluacion",
+    "objectID": "lessons/lesson-02/index.html#proceso-de-la-evaluación",
+    "href": "lessons/lesson-02/index.html#proceso-de-la-evaluación",
     "title": "Introducción y conceptualizacion",
-    "section": "Proceso de la evaluacion",
-    "text": "Proceso de la evaluacion\nEn un estudio de evaluación de proyectos se distinguen tres niveles de profundidad.\n\n\nPerfil\n\nEl perfil (o gran visión, identificación de la idea) es el primero y mas simple y se elabora a partir de la información existente de una idea basada en el juicio común y en términos monetarios, solo presenta cálculos globales. Su análisis es, con frecuencia, estático y se basa principalmente en información secundaria, generalmente de tipo cualitativo, en opiniones de expertos o en cifras estimativas."
+    "section": "Proceso de la evaluación",
+    "text": "Proceso de la evaluación\nEn un estudio de evaluación de proyectos se distinguen tres niveles de profundidad.\n\n\nPerfil\n\nEl perfil (o gran visión, identificación de la idea) es el primero y mas simple y se elabora a partir de la información existente de una idea basada en el juicio común y en términos monetarios, solo presenta cálculos globales. Su análisis es, con frecuencia, estático y se basa principalmente en información secundaria, generalmente de tipo cualitativo, en opiniones de expertos o en cifras estimativas."
   },
   {
     "objectID": "lessons/lesson-02/index.html#section-2",
@@ -385,25 +399,11 @@
     "text": "Como se calcula la elasticidad?\nSaber calcular la elasticidad precio de la demanda permite saber si un producto o servicio es elástico, lo que significa que la demanda cambia considerablemente incluso con el más mínimo ajuste del precio. En otras palabras: Los clientes son sensibles a los cambios de precio.\nPara calcular la elasticidad precio de la demanda, debes dividir el cambio porcentual en la cantidad demandada (Q) por el cambio porcentual en el precio (P).\n\\[E_d = \\frac{\\% \\Delta Q}{\\% \\Delta P}\\]"
   },
   {
-    "objectID": "lessons/lesson-03/index.html#e_d-frac-delta-q-delta-p",
-    "href": "lessons/lesson-03/index.html#e_d-frac-delta-q-delta-p",
-    "title": "Estudio de mercado",
-    "section": "\\[E_d = \\frac{\\% \\Delta Q}{\\% \\Delta P}\\]",
-    "text": "\\[E_d = \\frac{\\% \\Delta Q}{\\% \\Delta P}\\]\nLa formula detallada:\n\\[E_d = \\frac{\\frac{Q_2 - Q_1}{Q_1}}{\\frac{P_2 - P_1}{P_1}}\\] Variables(E_{d}) = Elasticidad precio de la demanda\n\\(\\(P_{1}\\)\\) = Precio inicial\n(P_{2}) = Precio final\n(Q_{1}) = Cantidad demandada inicial\n(Q_{2}) = Cantidad demandada final\n() = Variación o cambio"
-  },
-  {
     "objectID": "lessons/lesson-03/index.html#la-formula-detallada",
     "href": "lessons/lesson-03/index.html#la-formula-detallada",
     "title": "Estudio de mercado",
     "section": "La formula detallada:",
     "text": "La formula detallada:\n\\[E_d = \\frac{\\frac{Q_2 - Q_1}{Q_1}}{\\frac{P_2 - P_1}{P_1}}\\] Variables \\(E_{d}\\) = Elasticidad precio de la demanda\n\\(P_{1}\\) = Precio inicial\n\\(P_{2}\\) = Precio final\n\\(Q_{1}\\) = Cantidad demandada inicial\n\\(Q_{2}\\) = Cantidad demandada final\n\\(\\Delta\\) = Variación o cambio"
-  },
-  {
-    "objectID": "lessons/lesson-03/index.html#ejemplo",
-    "href": "lessons/lesson-03/index.html#ejemplo",
-    "title": "Estudio de mercado",
-    "section": "Ejemplo",
-    "text": "Ejemplo\nUn panadero sube el precio de un pan de primera calidad de 2000 Guaraníes a 2500 Guaraníes. Como resultado, la demanda diaria baja de 100 a 70 panes.\n\n\\(P_1 = 2000\\), \\(P_2 = 2500\\) \\(Q_1 = 100\\), \\(Q_2 = 70\\)"
   },
   {
     "objectID": "lessons/lesson-03/index.html#ejemplo---demanda-elastica",
@@ -460,54 +460,5 @@
     "title": "Estudio de mercado",
     "section": "Resumen grafico",
     "text": "Resumen grafico"
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#errores-comunes-continuacion",
-    "href": "lessons/lesson-04/index.html#errores-comunes-continuacion",
-    "title": "Relaciones con el mercado",
-    "section": "Errores comunes (continuacion)",
-    "text": "Errores comunes (continuacion)\nError 4:\nSubestimar los costos operativos\nEjemplos:\n• mantenimiento,\n• electricidad,\n• salarios,\n• impuestos,\n• marketing.\nError 5:\nConfundir ingresos con ganancias\nAltas ventas no siempre significan altas ganancias."
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#estructura-sencilla-de-un-estudio-de-factibilidad-ejemplo",
-    "href": "lessons/lesson-04/index.html#estructura-sencilla-de-un-estudio-de-factibilidad-ejemplo",
-    "title": "Relaciones con el mercado",
-    "section": "Estructura sencilla de un estudio de factibilidad (ejemplo)",
-    "text": "Estructura sencilla de un estudio de factibilidad (ejemplo)\nSección | Pregunta principal |\nResumen Ejecutivo | ¿Cuál es el proyecto? |\nEstudio de Mercado | ¿Existe demanda? |\nEstudio Técnico | ¿Puede operar? |\nEstudio de Localización | ¿La ubicación es adecuada? |\nEstudio Organizacional | ¿Quién administrará el proyecto? |\nEstudio Financiero | ¿Es rentable? |\nAnálisis de Riesgos | ¿Qué puede salir mal? |\nConclusión | ¿El proyecto es factible? |"
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-.unnumered-.smaller",
-    "href": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-.unnumered-.smaller",
-    "title": "Relaciones con el mercado",
-    "section": "Ejemplo practico muy simple (.unnumered .smaller)",
-    "text": "Ejemplo practico muy simple (.unnumered .smaller)\nInversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad\n¿Las ventas podrán cubrir: • salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple",
-    "href": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple",
-    "title": "Relaciones con el mercado",
-    "section": "Ejemplo practico muy simple",
-    "text": "Ejemplo practico muy simple\nInversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad\n¿Las ventas podrán cubrir: • salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-cont.",
-    "href": "lessons/lesson-04/index.html#ejemplo-practico-muy-simple-cont.",
-    "title": "Relaciones con el mercado",
-    "section": "Ejemplo practico muy simple (cont.)",
-    "text": "Ejemplo practico muy simple (cont.)\nInversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad: ¿Las ventas podrán cubrir:\n• salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#section",
-    "href": "lessons/lesson-04/index.html#section",
-    "title": "Relaciones con el mercado",
-    "section": "",
-    "text": "Error 4:\nSubestimar los costos operativos\nEjemplos:\n• mantenimiento,\n• electricidad,\n• salarios,\n• impuestos,\n• marketing.\nError 5:\nConfundir ingresos con ganancias\nAltas ventas no siempre significan altas ganancias."
-  },
-  {
-    "objectID": "lessons/lesson-04/index.html#section-1",
-    "href": "lessons/lesson-04/index.html#section-1",
-    "title": "Relaciones con el mercado",
-    "section": "",
-    "text": "Inversión\n• hornos,\n• muebles,\n• inventario inicial.\nFinanciamiento\n• ahorros propios + pequeño préstamo bancario.\nPregunta de factibilidad: ¿Las ventas podrán cubrir:\n• salarios,\n• alquiler,\n• ingredientes,\n• cuotas del préstamo,\n• servicios básicos?\nSi la respuesta es sí: el proyecto podría ser factible."
   }
 ]
